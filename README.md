@@ -6,15 +6,25 @@
 
 ## Overview
 
-W7 is the foundation behind a long-term ecosystem of initiatives focused on technology, infrastructure, engineering, design and education.
+W7 is a long-term ecosystem dedicated to creating meaningful initiatives at the intersection of technology, engineering, design and education.
 
-It provides the principles, documentation, design language and decision framework shared across every initiative.
+Rather than being a single product, W7 provides the philosophy, principles, design language and decision framework shared across every initiative built within its ecosystem.
+
+---
+
+## Purpose
+
+Transform complexity into clarity.
+
+We believe technology should empower people, knowledge grows when it is shared, and great systems are built with purpose.
 
 ---
 
 ## Current Initiative
 
-- WarTips
+| Initiative | Status |
+|------------|--------|
+| WarTips | 🟢 Active |
 
 ---
 
@@ -22,17 +32,36 @@ It provides the principles, documentation, design language and decision framewor
 
 ```text
 docs/
-├── constitution/
-├── framework/
-├── runtime/
-├── design-system/
-└── adr/
+├── constitution/      # W7 Constitution
+├── framework/         # Initiative Framework
+├── runtime/           # Active initiatives
+├── design-system/     # Identity System
+└── adr/               # Architecture Decision Records
 ```
 
 ---
 
 ## Status
 
-🚧 Foundation (v0.1)
+| Property | Value |
+|----------|-------|
+| Stage | Foundation |
+| Version | 0.1.0 |
+| Visibility | Private |
 
-This repository is under active development.
+---
+
+## Roadmap
+
+Current focus:
+
+- Build the W7 Constitution
+- Define the Identity System
+- Establish the Initiative Framework
+- Develop WarTips as the first W7 initiative
+
+---
+
+Built with curiosity.
+
+**Enjoy the Journey.**
