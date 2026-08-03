@@ -1,26 +1,26 @@
 # Product Framework
 
-Version: 1.0.0
+Version: 1.1.0
 
-Status: Draft
+Status: Active
 
 Owner: Rafael da Silva Guerra
 
 ---
 
-# Purpose
+## Purpose
 
 This document defines what a product is within W7, how it differs from an initiative, and how a new product is created inside an existing initiative.
 
 ---
 
-# Context
+## Context
 
 An initiative is a purpose. A product is a concrete thing built to serve that purpose — a course, a tool, a piece of software, a written guide, a service. One initiative may have several products, or none yet, or products that come and go while the initiative itself continues. Without this distinction, "should this be its own initiative or just something WarTips ships" becomes a recurring, unresolved argument.
 
 ---
 
-# Product vs. Initiative
+## Product vs. Initiative
 
 | | Initiative | Product |
 |---|---|---|
@@ -33,25 +33,25 @@ A product always belongs to exactly one initiative. If something seems to belong
 
 ---
 
-# Creating a New Product
+## Creating a New Product
 
 1. **Identify the owning initiative.** A product without an initiative is not created — either it fits one, or the [Initiative Framework](initiative-framework.md) is used first.
 2. **State the problem it solves for the initiative's audience**, in concrete terms, not aspirational ones.
 3. **Answer the Constitution's four questions** (Article VI) at the product level: this is usually a lighter pass than the initiative-level version, but it is not skipped.
 4. **Choose its technology deliberately**, following the principles in [Technology Stack](../architecture/technology-stack.md) rather than defaulting to whatever is trending.
-5. **Document it** under its owning initiative's own repository or documentation section — product-level documentation does not live in `project-w7` unless the product *is* the documentation (as is currently the case for WarTips).
+5. **Register it** in the owning initiative's entry in `project-w7`, then keep detailed product documentation in that initiative's own repository or documentation section. WarTips currently has no formally registered product.
 
 ---
 
-# What a Product Inherits
+## What a Product Inherits
 
 A product inherits everything its initiative inherits (see [Initiative Framework](initiative-framework.md)), plus whatever conventions its initiative has additionally established. It does not get to skip the [Engineering Standard](../standards/engineering-standard.md) or [Documentation Standard](../standards/documentation-standard.md) because it is "just a small thing" — small things are exactly what accumulates into an unmaintainable ecosystem if left unstandardized.
 
 ---
 
-# Product Lifecycle
+## Product Lifecycle
 
-Products move through four stages, and every product's documentation should state which stage it is in:
+Products move through four stages, and every product's documentation must state which stage it is in:
 
 | Stage | Meaning |
 |---|---|
@@ -64,7 +64,7 @@ Retiring a product does not require retiring its initiative, and retiring an ini
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Initiative Framework](initiative-framework.md) — the layer a product always belongs to
 - [Decision Framework](decision-framework.md) — how significant product decisions are evaluated
