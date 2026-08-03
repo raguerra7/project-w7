@@ -1,67 +1,19 @@
 # W7
 
-> Building meaningful initiatives through technology, engineering and education.
-
----
+> Building meaningful initiatives through engineering, technology and education.
 
 ## Overview
 
-W7 is a long-term ecosystem dedicated to creating meaningful initiatives at the intersection of technology, engineering, design and education.
+W7 is an ecosystem designed to create and support initiatives that generate long-term value through technology, engineering, education and design.
 
-Rather than being a single product, W7 provides the philosophy, principles, design language and decision framework shared across every initiative built within its ecosystem.
+It defines the philosophy, principles, identity and decision framework shared across every initiative within the ecosystem.
 
----
+W7 itself is not a product.
 
-## Purpose
-
-Transform complexity into clarity.
-
-We believe technology should empower people, knowledge grows when it is shared, and great systems are built with purpose.
+It is the foundation from which products, projects, communities and companies may emerge.
 
 ---
 
-## Current Initiative
+## Current Initiatives
 
-| Initiative | Status |
-|------------|--------|
-| WarTips | 🟢 Active |
-
----
-
-## Repository Structure
-
-```text
-docs/
-├── constitution/      # W7 Constitution
-├── framework/         # Initiative Framework
-├── runtime/           # Active initiatives
-├── design-system/     # Identity System
-└── adr/               # Architecture Decision Records
-```
-
----
-
-## Status
-
-| Property | Value |
-|----------|-------|
-| Stage | Foundation |
-| Version | 0.1.0 |
-| Visibility | Private |
-
----
-
-## Roadmap
-
-Current focus:
-
-- Build the W7 Constitution
-- Define the Identity System
-- Establish the Initiative Framework
-- Develop WarTips as the first W7 initiative
-
----
-
-Built with curiosity.
-
-**Enjoy the Journey.**
+- WarTips (Education)
