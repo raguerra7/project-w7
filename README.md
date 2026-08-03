@@ -127,7 +127,8 @@ Preserves the personal intent, letter and origin story behind W7. Not operationa
 | Stage | Foundation |
 | Version | 0.1.0 |
 | License | [MIT](LICENSE) |
-| Visibility | Private |
+| Visibility | Public |
+| Documentation | [raguerra7.github.io/project-w7](https://raguerra7.github.io/project-w7/) |
 
 ---
 
