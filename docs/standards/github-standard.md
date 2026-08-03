@@ -57,7 +57,7 @@ Issues are used for tracked, unfinished work — not as a substitute for documen
 
 # Visibility
 
-A repository's visibility (public/private) is a deliberate choice, revisited when circumstances change (see the root [README](../../README.md) status table), not an accident of how it was first created. Nothing that would violate the [Information Boundaries](information-boundaries.md) standard is ever made public by mistake because it was assumed to be private by default.
+A repository's visibility (public/private) is a deliberate choice, revisited when circumstances change (see the root [README](https://github.com/raguerra7/project-w7#readme) status table), not an accident of how it was first created. Nothing that would violate the [Information Boundaries](information-boundaries.md) standard is ever made public by mistake because it was assumed to be private by default.
 
 ---
 

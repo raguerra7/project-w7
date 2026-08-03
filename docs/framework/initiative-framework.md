@@ -55,7 +55,7 @@ An initiative that finds itself needing to contradict a Foundation-layer princip
 1. **State the purpose.** One paragraph: what this initiative exists to do that no existing initiative already covers.
 2. **Answer the Constitution's four questions** (Article VI) for the initiative as a whole, not just for a single product inside it.
 3. **Register it** in `docs/initiatives/<initiative-name>/README.md` in this repository, using WarTips' documentation as the reference shape.
-4. **Add it to the ecosystem table** in the root [README](../../README.md) and to the [Roadmap](../roadmap/roadmap.md) if it is not yet active.
+4. **Add it to the ecosystem table** in the root [README](https://github.com/raguerra7/project-w7#readme) and to the [Roadmap](../roadmap/roadmap.md) if it is not yet active.
 5. **Create the initiative's own repository**, if it needs one, following the [GitHub Standard](../standards/github-standard.md).
 
 A new initiative does not need permission to exist experimentally — it needs this process before it is presented as an official, active part of the W7 ecosystem.

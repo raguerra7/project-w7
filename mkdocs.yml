@@ -1,0 +1,68 @@
+site_name: W7
+site_description: The source of truth for the W7 ecosystem.
+site_url: https://raguerra7.github.io/project-w7/
+repo_url: https://github.com/raguerra7/project-w7
+repo_name: raguerra7/project-w7
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - content.action.edit
+    - toc.follow
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Foundations:
+      - Constitution: foundations/constitution.md
+      - Manifesto: foundations/manifesto.md
+      - Vision: foundations/vision.md
+      - Legacy: foundations/legacy.md
+  - Identity:
+      - Brand Architecture: identity/brand-architecture.md
+  - Architecture:
+      - Overview: architecture/overview.md
+      - Knowledge Architecture: architecture/knowledge-architecture.md
+      - Technology Stack: architecture/technology-stack.md
+  - Framework:
+      - Governance: framework/governance.md
+      - Decision Framework: framework/decision-framework.md
+      - Initiative Framework: framework/initiative-framework.md
+      - Product Framework: framework/product-framework.md
+  - Initiatives:
+      - WarTips: initiatives/wartips/README.md
+  - Standards:
+      - Documentation Standard: standards/documentation-standard.md
+      - Engineering Standard: standards/engineering-standard.md
+      - GitHub Standard: standards/github-standard.md
+      - AI Usage Standard: standards/ai-usage-standard.md
+      - Information Boundaries: standards/information-boundaries.md
+  - ADR:
+      - Template: adr/template.md
+      - "ADR-0001 GitHub as Source of Truth": adr/0001-github-as-source-of-truth.md
+      - "ADR-0002 Layered Repository Architecture": adr/0002-layered-repository-architecture.md
+      - "ADR-0003 Initiative Governance Model": adr/0003-initiative-governance-model.md
+  - Roadmap: roadmap/roadmap.md
+  - Founder:
+      - Overview: founder/README.md
+      - Founder's Letter: founder/founder-letter.md
+      - Origin Story: founder/origin-story.md
