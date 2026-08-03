@@ -1,26 +1,26 @@
 # Ecosystem Topology
 
-Version: 1.0.0
+Version: 1.1.0
 
-Status: Draft
+Status: Active
 
 Owner: Rafael da Silva Guerra
 
 ---
 
-# Purpose
+## Purpose
 
 This document is a visual complement to [Architecture Overview](overview.md): the same layer model, repository structure and initiative inheritance rules, expressed as diagrams instead of tables and prose.
 
 ---
 
-# Context
+## Context
 
 The Architecture Overview explains the layer model in words. Some relationships — especially inheritance and the feedback loop back into the Foundation — are easier to verify correct as a diagram than as a table. This document exists so that "does this change respect the topology?" can be checked visually, not just argued in text.
 
 ---
 
-# Layer Model
+## Layer Model
 
 ```mermaid
 flowchart TD
@@ -46,7 +46,7 @@ Dependencies only ever point downward (solid arrows). The only upward path is th
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```mermaid
 flowchart LR
@@ -61,7 +61,7 @@ flowchart LR
             fram["framework/<br/>governance, decision-,<br/>initiative-, product-framework"]
             init["initiatives/<br/>wartips/"]
             std["standards/<br/>documentation-, engineering-,<br/>github-, ai-usage-standard,<br/>information-boundaries"]
-            adr["adr/<br/>template, 0001, 0002, 0003"]
+            adr["adr/<br/>template, numbered records"]
             road["roadmap/"]
             fdr["founder/<br/>letter, origin-story"]
         end
@@ -82,7 +82,7 @@ Folder placement is not cosmetic — it is the mechanism that enforces the layer
 
 ---
 
-# Initiative Inheritance
+## Initiative Inheritance
 
 ```mermaid
 flowchart TD
@@ -104,7 +104,7 @@ Every initiative points back to exactly one W7. No initiative points to another 
 
 ---
 
-# Knowledge Boundary
+## Knowledge Boundary
 
 ```mermaid
 flowchart LR
@@ -123,7 +123,7 @@ This is a one-way graduation, never a sync. See [Information Boundaries](../stan
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Architecture Overview](overview.md) — the prose version of the layer model diagrammed above
 - [Knowledge Architecture](knowledge-architecture.md) — the reasoning behind the knowledge boundary diagram

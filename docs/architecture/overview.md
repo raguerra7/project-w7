@@ -1,20 +1,20 @@
 # Architecture Overview
 
-Version: 1.0.0
+Version: 1.1.0
 
-Status: Draft
+Status: Active
 
 Owner: Rafael da Silva Guerra
 
 ---
 
-# Purpose
+## Purpose
 
 This document explains how W7 is structured as a system, independent of any single initiative or product. It is the map that everything else in `docs/architecture/`, `docs/framework/` and `docs/initiatives/` fits into.
 
 ---
 
-# Context
+## Context
 
 W7 is not a single codebase, so its "architecture" is not a diagram of servers and databases. It is the structure of decisions, ownership and inheritance that lets many unrelated initiatives (WarTips today, others tomorrow) share one foundation without becoming tangled together or drifting apart.
 
@@ -22,7 +22,7 @@ An architecture document for an ecosystem like this has to answer one question w
 
 ---
 
-# The Layer Model
+## The Layer Model
 
 W7 is organized as ordered layers. Each layer may depend on the layers above it. No layer may depend on a layer below it.
 
@@ -59,7 +59,7 @@ A change at the bottom of the stack (an experience, a product feature) should ne
 
 ---
 
-# Inheritance, Not Duplication
+## Inheritance, Not Duplication
 
 Every initiative inherits from the Foundation and Identity layers by reference, not by copy.
 
@@ -69,11 +69,11 @@ Initiatives are free to extend what they inherit — a distinct voice, a distinc
 
 ---
 
-# This Repository's Job
+## This Repository's Job
 
 `project-w7` is the Foundation, Identity, Governance and Framework layers, plus a registry of Initiatives. It intentionally does not contain:
 
-- Product code (that lives in each initiative's own repository)
+- Product code (that lives in the owning initiative's repository or product surface)
 - Personal notes or drafts (that stays in Obsidian / Rafael OS, see [Information Boundaries](../standards/information-boundaries.md))
 - Anything that only makes sense to one initiative and no other
 
@@ -81,7 +81,7 @@ If a document only matters to WarTips, it belongs in WarTips' own repository, no
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Topology](topology.md) — the same layer model, repository structure and inheritance rules as diagrams
 - [Knowledge Architecture](knowledge-architecture.md) — how documentation itself is organized and kept coherent

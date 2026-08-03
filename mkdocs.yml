@@ -70,6 +70,7 @@ nav:
       - "ADR-0004 Activate Foundation Documents": adr/0004-activate-foundation-documents.md
       - "ADR-0005 Activate Endorsed Brand Architecture": adr/0005-activate-endorsed-brand-architecture.md
       - "ADR-0006 Activate Governance and Frameworks": adr/0006-activate-governance-and-frameworks.md
+      - "ADR-0007 Activate Ecosystem Architecture": adr/0007-activate-ecosystem-architecture.md
   - Roadmap: roadmap/roadmap.md
   - Founder:
       - Overview: founder/README.md

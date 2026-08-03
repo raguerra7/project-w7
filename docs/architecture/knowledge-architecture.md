@@ -1,20 +1,20 @@
 # Knowledge Architecture
 
-Version: 1.0.0
+Version: 1.1.0
 
-Status: Draft
+Status: Active
 
 Owner: Rafael da Silva Guerra
 
 ---
 
-# Purpose
+## Purpose
 
 This document defines how knowledge is organized, where it lives, and how it is kept from decaying. W7 is, structurally, a knowledge organization before it is anything else — this is the architecture of that knowledge.
 
 ---
 
-# Context
+## Context
 
 Documentation systems fail in predictable ways: the same fact is written in three places and only one gets updated; nobody knows which document is authoritative; old drafts are indistinguishable from current guidance; and eventually people stop trusting the documentation and start asking each other directly, which does not scale and does not survive anyone leaving.
 
@@ -22,7 +22,7 @@ This document exists to prevent that outcome, deliberately, before the repositor
 
 ---
 
-# One Fact, One Home
+## One Fact, One Home
 
 Every fact about W7 has exactly one canonical document. Every other document that needs that fact **links to it** instead of restating it.
 
@@ -40,7 +40,7 @@ When in doubt about whether to write something new or link to something existing
 
 ---
 
-# Two Repositories, One Boundary
+## Two Repositories, One Boundary
 
 Knowledge about W7 lives in exactly two places, and they have different jobs.
 
@@ -52,7 +52,7 @@ Obsidian never replaces GitHub. The moment a note in Obsidian is stable enough t
 
 ---
 
-# Status, Not Silence
+## Status, Not Silence
 
 Every document in this repository declares a `Status` in its header (`Draft`, `Active`, `Deprecated`, `Superseded`). A document with no status is a defect, not a stylistic omission — see the [Documentation Standard](../standards/documentation-standard.md).
 
@@ -60,7 +60,7 @@ Every document in this repository declares a `Status` in its header (`Draft`, `A
 
 ---
 
-# Discoverability Over Cleverness
+## Discoverability Over Cleverness
 
 Documents are organized by the layer they belong to (see [Architecture Overview](overview.md)), not by team, date, or author. A new reader should be able to find any document by asking "which layer does this belong to?" rather than by remembering who wrote it or when.
 
@@ -68,7 +68,7 @@ Cross-references exist at the bottom of every document under a `Related Document
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Architecture Overview](overview.md) — the layer model this knowledge structure supports
 - [Documentation Standard](../standards/documentation-standard.md) — the concrete rules every document must follow
