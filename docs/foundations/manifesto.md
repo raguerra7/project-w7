@@ -143,3 +143,11 @@ The destination will always change.
 The journey never ends.
 
 Enjoy the Journey.
+
+---
+
+# Related Documents
+
+- [Constitution](constitution.md) — the operational form of these beliefs
+- [Vision](vision.md) — where this is going
+- [Legacy](legacy.md) — what should remain

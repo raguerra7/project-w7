@@ -53,3 +53,11 @@ And we will never forget why we started.
 Enjoy the Journey.
 
 With those you love.
+
+---
+
+# Related Documents
+
+- [Constitution](constitution.md) — the principles this Legacy protects
+- [Manifesto](manifesto.md) — how impact is defined day to day
+- [Founder's Letter](../founder/founder-letter.md) — why this matters personally

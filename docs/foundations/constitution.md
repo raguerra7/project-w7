@@ -113,3 +113,13 @@ Share generously.
 Lead with humility.
 
 Enjoy the Journey.
+
+---
+
+# Related Documents
+
+- [Manifesto](manifesto.md) — why we believe what we believe
+- [Vision](vision.md) — where this is going
+- [Legacy](legacy.md) — what should remain
+- [Governance](../framework/governance.md) — how this Constitution is applied and amended
+- [Founder's Letter](../founder/founder-letter.md) — the personal account behind Article I

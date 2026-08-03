@@ -56,39 +56,67 @@ Future initiatives will inherit the W7 philosophy, identity system and governanc
 
 ```text
 docs/
-├── constitution/
-├── kernel/
-├── framework/
-├── runtime/
-├── design-system/
-└── adr/
+├── foundations/     Why W7 exists — constitution, manifesto, vision, legacy
+├── identity/        How W7 presents itself across initiatives
+├── architecture/    How the ecosystem and its knowledge are structured
+├── framework/       How new initiatives and products are created and governed
+├── initiatives/     Active initiatives (WarTips and future ones)
+├── standards/       How we write, build and ship
+├── adr/             Why key decisions were made, and when
+├── roadmap/         What comes next
+└── founder/         The founder's personal intent behind W7
+templates/           Reusable document and initiative templates
+scripts/             Small maintenance scripts (e.g. new ADR scaffolding)
+.github/             Issue/PR templates and CI workflows
+```
+
+This structure mirrors the W7 operating model: every layer inherits from the one above it.
+
+```text
+Foundation → Identity → Governance → Framework → Initiatives → Products → Experiences
 ```
 
 ---
 
 ## Documentation
 
-The W7 documentation is organized into five major layers.
+The W7 documentation is organized into layers, each depending only on the layers above it.
 
-### Constitution
+### [Foundations](docs/foundations/constitution.md)
 
-Defines why W7 exists.
+Defines why W7 exists: the [Constitution](docs/foundations/constitution.md), [Manifesto](docs/foundations/manifesto.md), [Vision](docs/foundations/vision.md) and [Legacy](docs/foundations/legacy.md). Nothing below this layer may contradict it.
 
-### Kernel
+### [Identity](docs/identity/brand-architecture.md)
 
-Defines what never changes.
+Defines how W7 and its initiatives relate to each other as brands.
 
-### Framework
+### [Architecture](docs/architecture/overview.md)
 
-Defines how new initiatives are created.
+Defines how the ecosystem, its knowledge and its technology choices are structured.
 
-### Runtime
+### [Framework](docs/framework/governance.md)
 
-Contains active initiatives.
+Defines how new initiatives and products are created, evaluated and governed.
 
-### ADR
+### [Initiatives](docs/initiatives/wartips/README.md)
 
-Documents architectural and strategic decisions.
+Contains the active initiatives operating under W7, starting with WarTips.
+
+### [Standards](docs/standards/documentation-standard.md)
+
+Defines how documentation, engineering and AI-assisted work are done inside W7.
+
+### [ADR](docs/adr/template.md)
+
+Documents architectural and strategic decisions, and why they were made at the time.
+
+### [Roadmap](docs/roadmap/roadmap.md)
+
+Tracks what the ecosystem is building next.
+
+### [Founder](docs/founder/README.md)
+
+Preserves the personal intent, letter and origin story behind W7. Not operational.
 
 ---
 
