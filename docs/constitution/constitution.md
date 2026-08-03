@@ -1,87 +1,115 @@
 # W7 Constitution
 
-**Version:** 1.0.0
+Version: 1.0.0
 
-**Status:** Draft
+Status: Draft
 
-**Owner:** Rafael da Silva Guerra
-
----
-
-## Preamble
-
-W7 exists to transform complexity into clarity.
-
-It was founded on the belief that knowledge grows when it is shared, technology should empower people, and meaningful systems are built through curiosity, discipline and continuous learning.
-
-Rather than being a single product, W7 is an ecosystem designed to create initiatives that educate, inspire and enable others.
-
-Every initiative created within W7 inherits the same philosophy, principles and commitment to excellence while maintaining the freedom to evolve according to its own purpose.
-
-This Constitution defines what never changes.
+Owner: Rafael da Silva Guerra
 
 ---
 
-## Article I — Purpose
+# Preamble
 
-The purpose of W7 is to design meaningful initiatives that transform knowledge into practical impact.
+W7 exists to create meaningful initiatives that help people learn, build and evolve.
 
-Technology is not the destination.
+Knowledge becomes more valuable when it is organized.
 
-People are.
+Technology becomes more valuable when it empowers people.
 
----
+Ideas become more valuable when they are shared.
 
-## Article II — Philosophy
+This Constitution defines the enduring principles that guide every initiative created within W7.
 
-Every initiative within W7 shall be guided by continuous learning.
+Products may evolve.
 
-Learning creates understanding.
+Technologies may change.
 
-Teaching reinforces learning.
-
-Sharing multiplies impact.
-
-Progress is achieved through consistency rather than intensity.
+The philosophy remains.
 
 ---
 
-## Article III — Identity
+# Article I — Purpose
+
+The purpose of W7 is to transform complexity into clarity through systems, technology, education and thoughtful design.
+
+---
+
+# Article II — Mission
+
+Design initiatives that empower people through knowledge, engineering and continuous learning.
+
+---
+
+# Article III — Vision
+
+To become a long-term ecosystem recognized for building meaningful initiatives that improve the way people learn, collaborate and create.
+
+---
+
+# Article IV — Philosophy
+
+Learning never ends.
+
+Teaching accelerates learning.
+
+Curiosity creates opportunity.
+
+Humility enables growth.
+
+Structure creates freedom.
+
+People come before technology.
+
+Progress is achieved through continuous improvement.
+
+---
+
+# Article V — Identity
 
 W7 is the origin.
 
-Every initiative inherits its identity from W7.
+Every initiative inherits its philosophy, governance and identity.
 
-Products may have different audiences, visual identities and communication styles, but they must always preserve the principles defined by this Constitution.
-
----
-
-## Article IV — Decision Framework
-
-When making decisions, W7 prioritizes:
-
-1. People before technology.
-2. Clarity before complexity.
-3. Strategy before execution.
-4. Learning before recognition.
-5. Long-term value before short-term attention.
+Each initiative may develop its own products, audience, visual language and communication style while remaining aligned with the W7 principles.
 
 ---
 
-## Article V — Evolution
+# Article VI — Decision Framework
 
-This Constitution may evolve over time.
+Every important decision must answer four questions.
 
-Its wording may change.
+Why should this exist?
 
-Its philosophy may deepen.
+Who benefits?
 
-Its principles, however, must remain timeless.
+Will it remain valuable over time?
+
+Does it strengthen the W7 ecosystem?
+
+If any answer is no, the decision should be reconsidered.
 
 ---
 
-> Build with purpose.
->
-> Share with humility.
->
-> Enjoy the Journey.
+# Article VII — Evolution
+
+W7 is designed to evolve.
+
+Its legal structure may change.
+
+Its initiatives may grow.
+
+Its products may come and go.
+
+Its principles remain constant.
+
+---
+
+# Closing Statement
+
+Build intentionally.
+
+Share generously.
+
+Lead with humility.
+
+Enjoy the Journey.
