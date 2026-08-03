@@ -1,26 +1,26 @@
 # Information Boundaries
 
-Version: 1.0.0
+Version: 1.1.0
 
-Status: Draft
+Status: Active
 
 Owner: Rafael da Silva Guerra
 
 ---
 
-# Purpose
+## Purpose
 
 This document defines the boundary between GitHub (official, shared documentation) and Obsidian / "Rafael OS" (personal knowledge management), and what may or may not cross that boundary.
 
 ---
 
-# Context
+## Context
 
 Personal knowledge management tools are excellent at capturing half-formed thoughts quickly. That is exactly why they must never be mistaken for official documentation — a note optimized for one person's fast capture is not written with the care, review or long-term audience that official documentation requires. This boundary is stated explicitly so it is never resolved ad hoc, differently, by whoever happens to be unsure that day.
 
 ---
 
-# The Boundary
+## The Boundary
 
 | | GitHub | Obsidian ("Rafael OS") |
 |---|---|---|
@@ -34,7 +34,7 @@ Obsidian never replaces GitHub, regardless of how complete a note in it becomes.
 
 ---
 
-# What Never Leaves Obsidian As-Is
+## What Never Leaves Obsidian As-Is
 
 - Unfiled personal reflections, including the working material behind [Founder](../founder/README.md) documents before they are deliberately written up.
 - Draft reasoning that has not yet been checked against the [Decision Framework](../framework/decision-framework.md).
@@ -42,7 +42,7 @@ Obsidian never replaces GitHub, regardless of how complete a note in it becomes.
 
 ---
 
-# Sensitivity Classification
+## Sensitivity Classification
 
 Every piece of information handled within W7 falls into one of three classes:
 
@@ -50,19 +50,19 @@ Every piece of information handled within W7 falls into one of three classes:
 |---|---|---|
 | Public | Foundations, standards, published initiative content | Public GitHub repositories |
 | Internal | Roadmap detail, unreleased product plans, draft ADRs | Private GitHub repositories |
-| Private | Credentials, personal reflections, unresolved disagreements, anything about a specific person without their consent | Never committed to Git, in any repository, public or private |
+| Private | Credentials, private personal reflections, unresolved disagreements, anything about a specific person without their consent | Never committed to Git, in any repository, public or private |
 
 Credentials and secrets are Private by definition and are governed by the [Engineering Standard](engineering-standard.md)'s rule that they never enter version control — a private repository is not an acceptable place for a secret either, because visibility can change and history is hard to fully purge.
 
 ---
 
-# AI Tools and This Boundary
+## AI Tools and This Boundary
 
-AI tools assisting with W7 work should be given Public and Internal-class information freely, per the [AI Usage Standard](ai-usage-standard.md). Private-class information is not pasted into AI tool contexts, prompts, or generated documentation, regardless of how convenient it would be for a specific task.
+AI tools assisting with W7 work may receive Public information. Internal information is provided only to tools approved for the relevant repository and data-handling context, per the [AI Usage Standard](ai-usage-standard.md). Private information is not pasted into AI tool contexts, prompts, or generated documentation, regardless of convenience.
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Knowledge Architecture](../architecture/knowledge-architecture.md) — the two-repository model this boundary defines in detail
 - [AI Usage Standard](ai-usage-standard.md) — how this boundary applies to AI-assisted work

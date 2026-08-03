@@ -71,6 +71,7 @@ nav:
       - "ADR-0005 Activate Endorsed Brand Architecture": adr/0005-activate-endorsed-brand-architecture.md
       - "ADR-0006 Activate Governance and Frameworks": adr/0006-activate-governance-and-frameworks.md
       - "ADR-0007 Activate Ecosystem Architecture": adr/0007-activate-ecosystem-architecture.md
+      - "ADR-0008 Activate Shared Standards": adr/0008-activate-shared-standards.md
   - Roadmap: roadmap/roadmap.md
   - Founder:
       - Overview: founder/README.md
