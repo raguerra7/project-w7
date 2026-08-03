@@ -1,0 +1,1 @@
+docs: add W7 Constitution
