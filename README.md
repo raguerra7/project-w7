@@ -46,7 +46,7 @@ Current initiatives
 
 | Initiative | Description | Status |
 |------------|-------------|--------|
-| WarTips | Technical knowledge sharing | 🟢 Active |
+| [WarTips](docs/initiatives/wartips/README.md) | Technical knowledge sharing | 🟢 Active |
 
 Future initiatives will inherit the W7 philosophy, identity system and governance model.
 
