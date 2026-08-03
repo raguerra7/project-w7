@@ -1,0 +1,13 @@
+# MkDocs build output
+site/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local tooling
+.DS_Store
+.idea/
+.vscode/

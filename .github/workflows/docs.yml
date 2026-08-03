@@ -27,5 +27,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements-docs.txt
 
+      - name: Validate documentation
+        run: mkdocs build --strict --clean
+
       - name: Build and deploy to GitHub Pages
         run: mkdocs gh-deploy --force --clean
