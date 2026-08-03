@@ -83,6 +83,7 @@ If a document only matters to WarTips, it belongs in WarTips' own repository, no
 
 # Related Documents
 
+- [Topology](topology.md) — the same layer model, repository structure and inheritance rules as diagrams
 - [Knowledge Architecture](knowledge-architecture.md) — how documentation itself is organized and kept coherent
 - [Technology Stack](technology-stack.md) — the tools this architecture is built on
 - [Initiative Framework](../framework/initiative-framework.md) — how a new layer-5 initiative is created

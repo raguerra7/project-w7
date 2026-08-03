@@ -12,7 +12,7 @@ Start with the [Constitution](foundations/constitution.md) if you're new here: i
 
 - **[Foundations](foundations/constitution.md)** — why W7 exists
 - **[Identity](identity/brand-architecture.md)** — how W7 presents itself
-- **[Architecture](architecture/overview.md)** — how the ecosystem is structured
+- **[Architecture](architecture/overview.md)** — how the ecosystem is structured ([topology diagrams](architecture/topology.md))
 - **[Framework](framework/governance.md)** — how initiatives and products are created and governed
 - **[Initiatives](initiatives/wartips/README.md)** — what is currently being built
 - **[Standards](standards/documentation-standard.md)** — how we write, build and ship

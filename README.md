@@ -127,8 +127,8 @@ Preserves the personal intent, letter and origin story behind W7. Not operationa
 | Stage | Foundation |
 | Version | 0.1.0 |
 | License | [MIT](LICENSE) |
-| Visibility | Public |
-| Documentation | [raguerra7.github.io/project-w7](https://raguerra7.github.io/project-w7/) |
+| Visibility | Private |
+| Documentation | MkDocs site builds from `docs/`; GitHub Pages requires public visibility (or a paid plan) to serve it — currently not published |
 
 ---
 
