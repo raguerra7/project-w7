@@ -1,16 +1,22 @@
 # Founder's Letter
 
-Version: 1.0.0
+Version: 1.1.0
 
-Status: Draft
+Status: Active
 
 Owner: Rafael da Silva Guerra
 
 ---
 
-# Purpose
+## Purpose
 
 This is a personal letter, not an operational document. It exists to say, in my own words, why I built W7 and what I want it to mean to whoever reads it — today, or long after I've handed it to someone else, or stepped back from it entirely.
+
+---
+
+## Context
+
+The Foundation documents state W7's principles in a form others can apply. This letter preserves the founder's personal intent behind those principles without replacing or extending their operational meaning.
 
 ---
 
@@ -34,7 +40,7 @@ Enjoy the Journey. With those you love.
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Origin Story](origin-story.md) — how this actually began
 - [Manifesto](../foundations/manifesto.md) — the same beliefs, stated as principle rather than as personal letter

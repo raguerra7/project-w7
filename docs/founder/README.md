@@ -1,19 +1,35 @@
 # Founder
 
-This section contains documents that preserve the founder's intent behind W7.
+Version: 1.0.0
 
-These documents are not operational.
+Status: Active
 
-They exist to communicate the principles, motivations and long-term vision that inspired the creation of the W7 ecosystem.
+Owner: Rafael da Silva Guerra
 
-The operational, canonical statement of why W7 exists is the [Constitution](../foundations/constitution.md). This section is its personal, first-person counterpart.
+---
 
-Documents in this section:
+## Purpose
+
+This section contains documents that preserve the founder's personal intent behind W7. These documents are not operational.
+
+---
+
+## Context
+
+The documents here communicate the motivations and long-term intent that inspired the W7 ecosystem. The operational, canonical statement of why W7 exists remains the [Constitution](../foundations/constitution.md); this section is its personal counterpart.
+
+---
+
+## Documents
+
 
 - [Founder's Letter](founder-letter.md)
 - [Origin Story](origin-story.md)
 
-Future documents:
+---
 
-- Lessons Learned
-- Personal Principles
+## Related Documents
+
+- [Constitution](../foundations/constitution.md) — the canonical statement of W7's purpose and principles
+- [Manifesto](../foundations/manifesto.md) — the shared beliefs expressed operationally
+- [Legacy](../foundations/legacy.md) — the long-term intent these personal documents illuminate

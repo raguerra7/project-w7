@@ -1,6 +1,22 @@
 # W7
 
+Version: 1.0.0
+
+Status: Active
+
+Owner: Rafael da Silva Guerra
+
+---
+
 > The source of truth for the W7 ecosystem.
+
+## Purpose
+
+This page is the entry point to W7's canonical documentation and its ordered layers.
+
+---
+
+## Context
 
 This site is generated directly from the Markdown in [github.com/raguerra7/project-w7](https://github.com/raguerra7/project-w7) — nothing here is duplicated or maintained separately from the repository itself.
 
@@ -19,5 +35,13 @@ Start with the [Constitution](foundations/constitution.md) if you're new here: i
 - **[ADR](adr/template.md)** — why key decisions were made
 - **[Roadmap](roadmap/roadmap.md)** — what comes next
 - **[Founder](founder/README.md)** — the personal intent behind W7
+
+---
+
+## Related Documents
+
+- [Constitution](foundations/constitution.md) — the governing foundation for every layer
+- [Architecture Overview](architecture/overview.md) — the dependency model behind this navigation
+- [Roadmap](roadmap/roadmap.md) — the current sequence of work
 
 Enjoy the Journey.
