@@ -64,4 +64,4 @@ GitHub was chosen for convenience and reach, not because W7 depends on it existi
 - [Architecture Overview](overview.md) — the layer model this stack supports
 - [GitHub Standard](../standards/github-standard.md) — how this repository is actually used day to day
 - [Engineering Standard](../standards/engineering-standard.md) — how initiative repositories are expected to operate
-- ADR-0001 in [adr/](../adr/) — the decision to make GitHub the source of truth
+- [ADR-0001: GitHub as the Single Source of Truth](../adr/0001-github-as-source-of-truth.md) — the decision to make GitHub the source of truth
