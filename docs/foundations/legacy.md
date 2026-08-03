@@ -1,14 +1,26 @@
 # W7 Legacy
 
-Version: 1.0.0
+Version: 1.1.0
 
-Status: Draft
+Status: Active
 
 Owner: Rafael da Silva Guerra
 
 ---
 
-# Legacy
+## Purpose
+
+This document defines what W7 intends to leave behind after individual products, technologies and initiatives have ended or changed.
+
+---
+
+## Context
+
+W7 is designed for continuous evolution, so permanence cannot depend on any particular output. Legacy provides the long-term measure that remains useful when shorter-term measures such as adoption, visibility or product growth no longer apply.
+
+---
+
+## Legacy
 
 Every initiative eventually ends.
 
@@ -34,7 +46,7 @@ No achievement is greater than the people with whom we share the journey.
 
 ---
 
-# Our Promise
+## Our Promise
 
 We will build with excellence.
 
@@ -48,7 +60,7 @@ And we will never forget why we started.
 
 ---
 
-# Closing Statement
+## Closing Statement
 
 Enjoy the Journey.
 
@@ -56,7 +68,7 @@ With those you love.
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Constitution](constitution.md) — the principles this Legacy protects
 - [Manifesto](manifesto.md) — how impact is defined day to day

@@ -67,6 +67,7 @@ nav:
       - "ADR-0001 GitHub as Source of Truth": adr/0001-github-as-source-of-truth.md
       - "ADR-0002 Layered Repository Architecture": adr/0002-layered-repository-architecture.md
       - "ADR-0003 Initiative Governance Model": adr/0003-initiative-governance-model.md
+      - "ADR-0004 Activate Foundation Documents": adr/0004-activate-foundation-documents.md
   - Roadmap: roadmap/roadmap.md
   - Founder:
       - Overview: founder/README.md

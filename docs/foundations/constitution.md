@@ -1,14 +1,26 @@
 # W7 Constitution
 
-Version: 1.0.0
+Version: 1.1.0
 
-Status: Draft
+Status: Active
 
 Owner: Rafael da Silva Guerra
 
 ---
 
-# Preamble
+## Purpose
+
+This Constitution defines the enduring principles every W7 initiative inherits and the questions that govern significant decisions across the ecosystem.
+
+---
+
+## Context
+
+Products, technologies and organizational forms change more quickly than the principles behind them. W7 needs one stable foundation so its initiatives can evolve independently without losing the purpose that makes them part of the same ecosystem.
+
+---
+
+## Preamble
 
 W7 exists to create meaningful initiatives that help people learn, build and evolve.
 
@@ -28,25 +40,25 @@ The philosophy remains.
 
 ---
 
-# Article I — Purpose
+## Article I — Purpose
 
 The purpose of W7 is to transform complexity into clarity through systems, technology, education and thoughtful design.
 
 ---
 
-# Article II — Mission
+## Article II — Mission
 
 Design initiatives that empower people through knowledge, engineering and continuous learning.
 
 ---
 
-# Article III — Vision
+## Article III — Vision
 
 To become a long-term ecosystem recognized for building meaningful initiatives that improve the way people learn, collaborate and create.
 
 ---
 
-# Article IV — Philosophy
+## Article IV — Philosophy
 
 Learning never ends.
 
@@ -64,7 +76,7 @@ Progress is achieved through continuous improvement.
 
 ---
 
-# Article V — Identity
+## Article V — Identity
 
 W7 is the origin.
 
@@ -74,7 +86,7 @@ Each initiative may develop its own products, audience, visual language and comm
 
 ---
 
-# Article VI — Decision Framework
+## Article VI — Decision Framework
 
 Every important decision must answer four questions.
 
@@ -90,7 +102,7 @@ If any answer is no, the decision should be reconsidered.
 
 ---
 
-# Article VII — Evolution
+## Article VII — Evolution
 
 W7 is designed to evolve.
 
@@ -104,7 +116,7 @@ Its principles remain constant.
 
 ---
 
-# Closing Statement
+## Closing Statement
 
 Build intentionally.
 
@@ -116,7 +128,7 @@ Enjoy the Journey.
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Manifesto](manifesto.md) — why we believe what we believe
 - [Vision](vision.md) — where this is going

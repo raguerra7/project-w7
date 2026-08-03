@@ -1,14 +1,26 @@
 # W7 Vision
 
-Version: 1.0.0
+Version: 1.1.0
 
-Status: Draft
+Status: Active
 
 Owner: Rafael da Silva Guerra
 
 ---
 
-# Vision
+## Purpose
+
+This document defines the long-term direction W7 uses to evaluate whether its initiatives are creating the kind of impact the ecosystem exists to pursue.
+
+---
+
+## Context
+
+The Constitution states the destination at a governing level. This document expands that direction into a durable picture of success without turning it into a fixed roadmap or tying it to a particular product, technology or organizational form.
+
+---
+
+## Vision
 
 To become a timeless ecosystem where meaningful initiatives are created, nurtured and shared to help people grow.
 
@@ -26,7 +38,7 @@ If, decades from now, people remember W7 as a place that empowered others to lea
 
 ---
 
-# Success
+## Success
 
 Success is measured by impact, not scale.
 
@@ -36,7 +48,7 @@ By legacy, not popularity.
 
 ---
 
-# Closing Statement
+## Closing Statement
 
 Create initiatives that outlive trends.
 
@@ -48,7 +60,7 @@ Enjoy the Journey.
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Constitution](constitution.md) — Article III states this Vision as governing law
 - [Roadmap](../roadmap/roadmap.md) — how this Vision is being pursued in practice

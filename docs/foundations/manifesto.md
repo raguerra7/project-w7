@@ -1,14 +1,26 @@
 # W7 Manifesto
 
-**Version:** 1.0.0
+Version: 1.1.0
 
-**Status:** Draft
+Status: Active
 
-**Owner:** Rafael da Silva Guerra
+Owner: Rafael da Silva Guerra
 
 ---
 
-# We believe...
+## Purpose
+
+This Manifesto expresses the beliefs that shape how W7 learns, builds, teaches and measures impact.
+
+---
+
+## Context
+
+The Constitution defines W7's governing principles. This document gives those principles a human voice so contributors and initiatives can understand the intent behind the rules, not only the rules themselves.
+
+---
+
+## We believe...
 
 Technology is one of humanity's greatest tools.
 
@@ -118,11 +130,11 @@ It is a way of life.
 
 ---
 
-W7 is not a company.
+W7 is not defined by a company.
 
-It is not a product.
+It is not a single product.
 
-It is not a brand.
+It is more than a brand.
 
 W7 is a commitment.
 
@@ -146,7 +158,7 @@ Enjoy the Journey.
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Constitution](constitution.md) — the operational form of these beliefs
 - [Vision](vision.md) — where this is going
