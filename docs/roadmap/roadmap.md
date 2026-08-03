@@ -8,19 +8,19 @@ Owner: Rafael da Silva Guerra
 
 ---
 
-# Purpose
+## Purpose
 
 This document tracks what W7 is building next, at the ecosystem level. Initiative-specific roadmaps belong in each initiative's own documentation or repository, not here.
 
 ---
 
-# Context
+## Context
 
 A roadmap for an ecosystem meant to last a decade is not a fixed plan — it is a record of current priorities, revisited deliberately rather than treated as a promise. Priorities here move to `Done` or are dropped with a reason, never silently forgotten.
 
 ---
 
-# Now
+## Now
 
 | Priority | Why |
 |---|---|
@@ -31,7 +31,7 @@ A roadmap for an ecosystem meant to last a decade is not a fixed plan — it is 
 
 ---
 
-# Next
+## Next
 
 | Priority | Why |
 |---|---|
@@ -41,7 +41,7 @@ A roadmap for an ecosystem meant to last a decade is not a fixed plan — it is 
 
 ---
 
-# Later
+## Later
 
 | Priority | Why |
 |---|---|
@@ -51,13 +51,13 @@ A roadmap for an ecosystem meant to last a decade is not a fixed plan — it is 
 
 ---
 
-# Explicitly Not Planned
+## Explicitly Not Planned
 
 Anything that would require assuming W7 is already a company — dedicated legal structure, employees, formal product-market positioning — is out of scope until an actual initiative reaches a size that requires it. Building that structure speculatively would contradict the Constitution's Article VII: the legal and organizational form is expected to change; the principles are what is built to last.
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Initiative Framework](../framework/initiative-framework.md) — how a "Next" or "Later" initiative gets formally created
 - [Vision](../foundations/vision.md) — the long-term direction this roadmap is a step toward

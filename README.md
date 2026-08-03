@@ -136,11 +136,10 @@ Preserves the personal intent, letter and origin story behind W7. Not operationa
 
 Current priorities
 
-- Build the W7 Constitution
-- Define the Brand Kernel
-- Establish the Initiative Framework
-- Design the W7 Identity System
-- Develop WarTips as the first initiative
+- Publish the MkDocs documentation site when repository visibility and Pages access allow it
+- Register WarTips' first product under the Product Framework
+- Evaluate a second initiative to test the framework beyond WarTips
+- Develop visual identity only when a concrete asset creates the need
 
 ---
 

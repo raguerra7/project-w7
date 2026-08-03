@@ -1,6 +1,6 @@
 # WarTips
 
-Version: 1.0.0
+Version: 1.1.0
 
 Status: Active
 
@@ -8,13 +8,19 @@ Owner: Rafael da Silva Guerra
 
 ---
 
-# Purpose
+## Purpose
 
 WarTips is the first initiative created under W7. This document is its entry in the W7 initiative registry — it states what WarTips is for, what it inherits from W7, and what it is free to define for itself, following the [Initiative Framework](../../framework/initiative-framework.md).
 
 ---
 
-# What WarTips Is
+## Context
+
+WarTips existed before W7's operating framework and became the first initiative used to test it. This registration separates the initiative's enduring purpose from any future product it may create and makes its relationship to W7 explicit.
+
+---
+
+## What WarTips Is
 
 WarTips exists to share practical, field-tested technical knowledge — the kind of detail that is usually learned the hard way, in production, at 2am, or after making the same mistake twice. It documents solutions, explains reasoning, and turns hard-won experience into something the next person does not have to rediscover from scratch.
 
@@ -22,7 +28,7 @@ Its name is intentional: a "war tip" is not a tutorial written in comfort. It is
 
 ---
 
-# Purpose Statement
+## Purpose Statement
 
 Answering the Constitution's four questions (Article VI) at the initiative level:
 
@@ -36,7 +42,7 @@ Answering the Constitution's four questions (Article VI) at the initiative level
 
 ---
 
-# What WarTips Inherits from W7
+## What WarTips Inherits from W7
 
 - The [Constitution](../../foundations/constitution.md), [Manifesto](../../foundations/manifesto.md) and [Legacy](../../foundations/legacy.md), by reference.
 - W7's [Identity](../../identity/brand-architecture.md) rules for how an initiative brand relates to the master ecosystem brand.
@@ -45,7 +51,7 @@ Answering the Constitution's four questions (Article VI) at the initiative level
 
 ---
 
-# What WarTips Defines for Itself
+## What WarTips Defines for Itself
 
 - **Voice**: direct, specific, and grounded in real incidents rather than abstract best practice. WarTips prefers "this broke because X, and here is the fix" over generic advice.
 - **Format**: short, practical write-ups organized by topic and technology, each one standing on its own.
@@ -53,7 +59,7 @@ Answering the Constitution's four questions (Article VI) at the initiative level
 
 ---
 
-# Current State
+## Current State
 
 | Property | Value |
 |---|---|
@@ -66,7 +72,7 @@ As WarTips produces distinct products — a tool, a structured course, a searcha
 
 ---
 
-# Related Documents
+## Related Documents
 
 - [Initiative Framework](../../framework/initiative-framework.md) — the process this registration follows
 - [Product Framework](../../framework/product-framework.md) — how a future WarTips product gets created
