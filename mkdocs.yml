@@ -9,6 +9,8 @@ docs_dir: docs
 
 theme:
   name: material
+  logo: assets/brand/w7-symbol.svg
+  favicon: assets/brand/favicon.svg
   palette:
     - scheme: default
       toggle:
@@ -49,6 +51,7 @@ plugins:
             Legacy: Legado
             Identity: Identidade
             Brand Architecture: Arquitetura de Marca
+            Logo System: Sistema de Logo
             Color System: Sistema de Cores
             Typography: Tipografia
             Voice and Tone: Voz e Tom
@@ -105,6 +108,7 @@ nav:
       - Legacy: foundations/legacy.md
   - Identity:
       - Brand Architecture: identity/brand-architecture.md
+      - Logo System: identity/logo-system.md
       - Color System: identity/color-system.md
       - Typography: identity/typography.md
       - Voice and Tone: identity/voice-and-tone.md
@@ -139,6 +143,7 @@ nav:
       - "ADR-0007 Activate Ecosystem Architecture": adr/0007-activate-ecosystem-architecture.md
       - "ADR-0008 Activate Shared Standards": adr/0008-activate-shared-standards.md
       - "ADR-0009 Complete Foundation v1.0": adr/0009-complete-foundation-v1.md
+      - "ADR-0010 Adopt Production Identity Assets": adr/0010-adopt-w7-production-identity-assets.md
   - Roadmap: roadmap/roadmap.md
   - Founder:
       - Overview: founder/README.md

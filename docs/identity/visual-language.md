@@ -1,6 +1,6 @@
 # Visual Language
 
-Version: 1.0.0
+Version: 1.1.0
 
 Status: Active
 
@@ -48,9 +48,9 @@ The endorsed direction is a circular W7 monogram inspired subtly by balance: tec
 
 Motion should explain hierarchy, change, or continuity. It is brief, calm, respects reduced-motion preferences, and never blocks access to content.
 
-## Asset Governance
+## Production Assets
 
-This document governs direction, not finished logo files. Production assets must record format, clear space, minimum size, contrast variants, accessibility review, and approval before becoming canonical.
+The production marks, variants, clear space, minimum sizes, and accessibility rules are defined in the [Logo System](logo-system.md). SVG is the canonical source format.
 
 ---
 
@@ -60,3 +60,4 @@ This document governs direction, not finished logo files. Production assets must
 - [Typography](typography.md) — canonical type roles
 - [Brand Architecture](brand-architecture.md) — relationship between W7 and initiatives
 - [Decision Framework](../framework/decision-framework.md) — approval path for production identity assets
+- [Logo System](logo-system.md) — canonical production marks and usage rules

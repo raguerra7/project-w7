@@ -1,6 +1,6 @@
 # Linguagem Visual
 
-Version: 1.0.0
+Version: 1.1.0
 
 Status: Active
 
@@ -48,9 +48,9 @@ A direção aprovada é um monograma circular W7 sutilmente inspirado em equilí
 
 O movimento deve explicar hierarquia, mudança ou continuidade. Deve ser breve, calmo, respeitar preferências de redução de movimento e nunca bloquear o acesso ao conteúdo.
 
-## Governança de Ativos
+## Ativos de Produção
 
-Este documento governa a direção, não os arquivos finais do logo. Ativos de produção precisam registrar formato, área de proteção, tamanho mínimo, variações de contraste, revisão de acessibilidade e aprovação.
+As marcas de produção, variações, áreas de proteção, tamanhos mínimos e regras de acessibilidade estão definidas no [Sistema de Logo](logo-system.md). SVG é o formato-fonte canônico.
 
 ---
 
@@ -60,3 +60,4 @@ Este documento governa a direção, não os arquivos finais do logo. Ativos de p
 - [Tipografia](typography.md) — papéis tipográficos canônicos
 - [Arquitetura de Marca](brand-architecture.md) — relação entre W7 e iniciativas
 - [Framework de Decisão](../framework/decision-framework.md) — aprovação dos ativos de identidade
+- [Sistema de Logo](logo-system.md) — marcas canônicas e regras de uso
