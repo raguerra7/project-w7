@@ -39,7 +39,7 @@ Isso reflete a posição do [Padrão de Engenharia](engineering-standard.md) sob
 
 ## Onde o julgamento humano é necessário antes de qualquer coisa ser enviada
 
-- Qualquer alteração na Fundação, Identidade, Governança, Estrutura, Arquitetura ou Padrões - estes codificam raciocínios e restrições compartilhados, e raciocínios pelos quais ninguém aceita responsabilidade não podem governar o ecossistema.
+- Qualquer alteração nos Fundamentos, Identidade, Governança, Framework, Arquitetura ou Padrões - estes codificam raciocínios e restrições compartilhados, e raciocínios pelos quais ninguém aceita responsabilidade não podem governar o ecossistema.
 - Qualquer decisão do Tipo 2 ou Tipo 3 sob a [Framework de Decisão](../framework/decision-framework.md).
 - Qualquer coisa apresentada como um fato sobre a história, filosofia ou intenção do fundador de W7 - os documentos do [Fundador](../founder/README.md) em particular são em primeira pessoa e não devem ser de autoria de IA, além de ajudar na redação do relato do próprio fundador.
 - Código ou configuração sensível à segurança, de acordo com a [Padrão de Engenharia](engineering-standard.md).
@@ -59,6 +59,6 @@ Não há necessidade de anotar cada frase com sua origem – isso seria ruído, 
 ## Documentos Relacionados
 
 - [Padrão de Documentação](documentation-standard.md) — o padrão que toda escrita, assistida por IA ou não, deve ser limpa
-- [Engineering Standard](engineering-standard.md) — o padrão equivalente para código
-- [Decision Framework](../framework/decision-framework.md) — onde termina a exploração assistida por IA e começa a tomada de decisão humana
+- [Padrão de Engenharia](engineering-standard.md) — o padrão equivalente para código
+- [Framework de Decisão](../framework/decision-framework.md) — onde termina a exploração assistida por IA e começa a tomada de decisão humana
 - [Limites de informação](information-boundaries.md) — quais ferramentas de IA devem ou não ter acesso

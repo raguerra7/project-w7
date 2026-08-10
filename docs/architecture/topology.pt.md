@@ -44,7 +44,7 @@ flowchart TD
 
 As setas sólidas mostram a direção da dependência. O único caminho de retorno é o aprendizado: uma lição se transforma em ADR e somente uma decisão deliberada pode alterar os Fundamentos.
 
-## Estrutura do Repositório
+## Framework do Repositório
 
 ```mermaid
 flowchart TB

@@ -28,7 +28,7 @@ Ideias e possíveis nomes futuros não são iniciativas. O registro torna explí
 
 ## Candidatos
 
-Home Lab, Camarim, Academy e Labs são nomes ou áreas de interesse, não iniciativas aprovadas. Eles ganham status oficial apenas através do Quadro de Iniciativa e de um documento de registro preenchido.
+Home Lab, Camarim, Academy e Labs são nomes ou áreas de interesse, não iniciativas aprovadas. Eles ganham status oficial apenas através do Framework de Iniciativas e de um documento de registro preenchido.
 
 ## Regra de registro
 
@@ -38,6 +38,6 @@ Cada iniciativa possui exatamente um diretório em `docs/initiatives/`, um propr
 
 ## Documentos Relacionados
 
-- [Initiative Framework](../framework/initiative-framework.md) — regras de criação e ciclo de vida
+- [Framework de Iniciativas](../framework/initiative-framework.md) — regras de criação e ciclo de vida
 - [Framework de Produtos](../framework/product-framework.md) — regras de propriedade do produto
 - [Arquitetura de marca](../identity/brand-architecture.md) — relacionamento de identidade endossado

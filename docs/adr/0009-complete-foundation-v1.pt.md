@@ -1,4 +1,4 @@
-# ADR-0009: Fundação W7 completa v1.0
+# ADR-0009: Fundamentos W7 completa v1.0
 
 Situação: Aceito
 
@@ -10,7 +10,7 @@ Owner: Rafael da Silva Guerra
 
 ## Contexto
 
-Os documentos governantes, arquitetura, estruturas, padrões e primeira iniciativa do W7 estavam ativos, mas o repositório ainda se descrevia como versão 0.1.0 e deixava vários conceitos de identidade e operação implícitos. Missão, valores, princípios de construção, modelo operacional, cores principais e funções tipográficas, voz e tom, linguagem visual e o registro de iniciativa exigiam casas canônicas antes que o repositório pudesse reivindicar com precisão uma Fundação v1.0 completa.
+Os documentos de governança, arquitetura, frameworks e padrões e primeira iniciativa do W7 estavam ativos, mas o repositório ainda se descrevia como versão 0.1.0 e deixava vários conceitos de identidade e operação implícitos. Missão, valores, princípios de construção, modelo operacional, cores principais e funções tipográficas, voz e tom, linguagem visual e o registro de iniciativa exigiam casas canônicas antes que o repositório pudesse reivindicar com precisão os Fundamentos v1.0 completos.
 
 ## Avaliação Constitucional
 
@@ -21,13 +21,13 @@ Os documentos governantes, arquitetura, estruturas, padrões e primeira iniciati
 
 ## Decisão
 
-Adote a documentação expandida de Fundação e Identidade, o registro de iniciativa canônica e a navegação de repositório alinhada como W7 Foundation v1.0. Foundation v1.0 significa que o modelo operacional é completo o suficiente para administrar novos trabalhos; isso não significa que todas as futuras iniciativas, produtos, ativos de marca ou capacidades organizacionais já existam.
+Adote a documentação expandida de Fundamentos e Identidade, o registro de iniciativa canônica e a navegação de repositório alinhada como W7 Foundation v1.0. Foundation v1.0 significa que o modelo operacional é completo o suficiente para administrar novos trabalhos; isso não significa que todas as futuras iniciativas, produtos, ativos de marca ou capacidades organizacionais já existam.
 
 ## Alternativas consideradas
 
 - **Manter o repositório na v0.1 até que um produto seja enviado.** Rejeitado porque a maturidade do repositório e a maturidade do produto são preocupações distintas.
 - **Tratar os documentos existentes como suficientes e deixar conceitos implícitos.** Rejeitado porque a identidade implícita e as regras operacionais não podem ser revisadas ou herdadas de forma confiável.
-- **Registre agora todas as iniciativas futuras discutidas.** Rejeitado porque nomes e ideias não completaram o Quadro de Iniciativas.
+- **Registre agora todas as iniciativas futuras discutidas.** Rejeitado porque nomes e ideias não completaram o Framework de Iniciativas.
 
 ## Consequências
 

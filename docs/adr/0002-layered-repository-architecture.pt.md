@@ -14,7 +14,7 @@ Owner: Rafael da Silva Guerra
 
 ## Decisão
 
-O repositório é organizado em camadas ordenadas — Fundação, Identidade, Governança, Estrutura, Iniciativas, com Produtos e Experiências residentes no próprio repositório de cada iniciativa — onde cada camada pode depender apenas das camadas acima dela, nunca abaixo dela. Concretamente: `docs/foundations/`, `docs/identity/`, `docs/framework/` (que inclui governança), `docs/initiatives/`, apoiado por `docs/architecture/`, `docs/standards/`, `docs/adr/` e `docs/roadmap/` como camadas de suporte usadas em todo o processo.
+O repositório é organizado em camadas ordenadas — Fundamentos, Identidade, Governança, Framework, Iniciativas, com Produtos e Experiências residentes no próprio repositório de cada iniciativa — onde cada camada pode depender apenas das camadas acima dela, nunca abaixo dela. Concretamente: `docs/foundations/`, `docs/identity/`, `docs/framework/` (que inclui governança), `docs/initiatives/`, apoiado por `docs/architecture/`, `docs/standards/`, `docs/adr/` e `docs/roadmap/` como camadas de suporte usadas em todo o processo.
 
 ## Alternativas consideradas
 
@@ -24,7 +24,7 @@ O repositório é organizado em camadas ordenadas — Fundação, Identidade, Go
 
 ## Consequências
 
-Qualquer colaborador pode determinar o raio de explosão de uma alteração pela pasta em que ela está, sem ler primeiro todos os outros documentos. Novas iniciativas têm um local inequívoco para serem registradas ([Initiative Framework](../framework/initiative-framework.md)) sem afetar a Fundação. O custo é que essa estrutura deve ser mantida deliberadamente – um documento colocado na camada errada (por exemplo, conteúdo específico da iniciativa vazando para `docs/foundations/`) prejudica todo o modelo, então o posicionamento é verificado como parte da [revisão do Padrão de Documentação](../standards/documentation-standard.md).
+Qualquer colaborador pode determinar o raio de explosão de uma alteração pela pasta em que ela está, sem ler primeiro todos os outros documentos. Novas iniciativas têm um local inequívoco para serem registradas ([Framework de Iniciativas](../framework/initiative-framework.md)) sem afetar a Fundamentos. O custo é que essa estrutura deve ser mantida deliberadamente – um documento colocado na camada errada (por exemplo, conteúdo específico da iniciativa vazando para `docs/foundations/`) prejudica todo o modelo, então o posicionamento é verificado como parte da [revisão do Padrão de Documentação](../standards/documentation-standard.md).
 
 ## Relacionados
 

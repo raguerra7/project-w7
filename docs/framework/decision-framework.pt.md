@@ -1,4 +1,4 @@
-# Estrutura de decisão
+# Framework de Decisão
 
 Version: 1.1.0
 
@@ -39,7 +39,7 @@ Este documento operacionaliza essas quatro questões em algo utilizável na prá
 
 Nem toda decisão precisa dessa estrutura. As escolhas diárias de implementação dentro de uma iniciativa, não. Uma decisão passa por esta estrutura quando realiza pelo menos uma das seguintes opções:
 
-- Altera as camadas de Fundação, Identidade, Governança ou Estrutura
+- Altera as camadas de Fundamentos, Identidade, Governança ou Framework
 - Cria uma nova iniciativa ou descontinua uma existente
 - Introduz uma dependência, ferramenta ou convenção que outras iniciativas deverão herdar
 - Não pode ser facilmente revertido dentro de um ciclo de iteração normal
@@ -79,6 +79,6 @@ W7 foi projetado para escalar de uma pessoa para muitas. Quando mais de uma pess
 ## Documentos Relacionados
 
 - [Constituição](../foundations/constitution.md), Artigo VI — as quatro questões que este quadro operacionaliza
-- [Governance](governance.md) — quem detém autoridade de tomada de decisão em cada camada
+- [Governança](governance.md) — quem detém autoridade de tomada de decisão em cada camada
 - [ADR Template](../adr/template.md) — como uma decisão significativa é registrada permanentemente
-- [Initiative Framework](initiative-framework.md) e [Product Framework](product-framework.md) – os dois locais mais comuns onde esta estrutura é aplicada
+- [Framework de Iniciativas](initiative-framework.md) e [Framework de Produtos](product-framework.md) – os dois locais mais comuns onde esta estrutura é aplicada

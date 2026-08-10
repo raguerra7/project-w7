@@ -61,4 +61,4 @@ Quando os valores parecem entrar em conflito, a Constituição e os Limites de I
 - [Constitution](constitution.md) — a autoridade por trás desses valores
 - [Manifesto](manifesto.md) — as crenças que esses valores expressam na prática
 - [Princípios do Building](principles-of-building.md) — como os valores orientam a criação
-- [Estrutura de decisão](../framework/decision-framework.md) — como as compensações de valor são resolvidas
+- [Framework de Decisão](../framework/decision-framework.md) — como as compensações de valor são resolvidas

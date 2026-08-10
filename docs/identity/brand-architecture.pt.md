@@ -56,5 +56,5 @@ Este modelo é definido independentemente de qualquer iniciativa única. WarTips
 - [Manifesto](../foundations/manifesto.md) — a filosofia compartilhada que cada marca de iniciativa carrega
 - [Constituição](../foundations/constitution.md) — a fonte governante para identidade e autonomia da iniciativa
 - [WarTips](../initiatives/wartips/README.md) — a primeira iniciativa aplicando esta arquitetura
-- [Initiative Framework](../framework/initiative-framework.md) — o processo downstream que aplica as regras de nomenclatura e identidade
+- [Framework de Iniciativas](../framework/initiative-framework.md) — o processo downstream que aplica as regras de nomenclatura e identidade
 - [Linguagem Visual](visual-language.md) — direção visual compartilhada e governança de ativos de produção

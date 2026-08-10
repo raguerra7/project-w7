@@ -1,4 +1,4 @@
-# ADR-0001: GitHub como a única fonte da verdade
+# ADR-0001: GitHub como a única fonte de verdade
 
 Situação: Aceito
 
@@ -14,11 +14,11 @@ O conhecimento do W7 é produzido em dois locais: GitHub, onde a documentação 
 
 ## Decisão
 
-GitHub é a única fonte oficial da verdade para W7. Qualquer documento, decisão ou reivindicação que não tenha sido enviado ao repositório GitHub apropriado não é oficial, independentemente de quão completo ou antigo seja em outro lugar. Obsidian permanece em uso contínuo para gerenciamento de conhecimento pessoal, mas nunca como um substituto para GitHub, de acordo com [Limites de informação](../standards/information-boundaries.md).
+GitHub é a única fonte de verdade oficial para W7. Qualquer documento, decisão ou reivindicação que não tenha sido enviado ao repositório GitHub apropriado não é oficial, independentemente de quão completo ou antigo seja em outro lugar. Obsidian permanece em uso contínuo para gerenciamento de conhecimento pessoal, mas nunca como um substituto para GitHub, de acordo com [Limites de informação](../standards/information-boundaries.md).
 
 ## Alternativas consideradas
 
-- **Obsidian como a fonte da verdade, com GitHub como uma exportação periódica.** Rejeitado: isso faz com que a versão canônica viva em uma ferramenta de usuário único, não diferenciável e não revisável, que não ultrapassa uma pessoa e não se beneficia do histórico ou modelo de revisão do Git.
+- **Obsidian como a fonte de verdade, com GitHub como uma exportação periódica.** Rejeitado: isso faz com que a versão canônica viva em uma ferramenta de usuário único, não diferenciável e não revisável, que não ultrapassa uma pessoa e não se beneficia do histórico ou modelo de revisão do Git.
 - **Trate ambos como igualmente confiáveis, resolvidos caso a caso.** Rejeitado: isso reintroduz a ambiguidade exata que esta ADR existe para remover e apenas muda a discordância para "qual deles vence desta vez".
 - **Um wiki dedicado ou plataforma de documentação fora do GitHub.** Rejeitado: introduz um segundo sistema para manter, revisar e proteger, sem um benefício claro sobre o Markdown já versionado no Git, e funciona contra o princípio de formato aberto e sem bloqueio em [Technology Stack](../architecture/technology-stack.md).
 

@@ -10,19 +10,19 @@ Owner: Rafael da Silva Guerra
 
 ## Propósito
 
-Este documento define como GitHub é usado nos repositórios W7: ramificação, commits, problemas, pull requests e higiene do repositório. Torna concreta a afirmação feita em [Arquitetura do Conhecimento](../architecture/knowledge-architecture.md), que GitHub é a fonte oficial da verdade.
+Este documento define como GitHub é usado nos repositórios W7: branches, commits, issues, pull requests e higiene do repositório. Torna concreta a afirmação feita em [Arquitetura do Conhecimento](../architecture/knowledge-architecture.md), que GitHub é a fonte de verdade oficial.
 
 ---
 
 ## Contexto
 
-"GitHub é a fonte da verdade" só significa algo se for usado de forma consistente - as mesmas convenções de ramificação, o mesmo estilo de commit, as mesmas expectativas para o que é público versus privado. Este documento é o que torna essa afirmação operacional e não aspiracional.
+"GitHub é a fonte de verdade" só significa algo se for usado de forma consistente - as mesmas convenções de branches, o mesmo estilo de commit, as mesmas expectativas para o que é público versus privado. Este documento é o que torna essa afirmação operacional e não aspiracional.
 
 ---
 
 ## Convenções de repositório
 
-- Todo repositório no ecossistema W7 possui um `README.md` em sua raiz informando sua finalidade e, se for uma iniciativa ou repositório de produto, a qual iniciativa ele pertence (de acordo com o [Initiative Framework](../framework/initiative-framework.md)).
+- Todo repositório no ecossistema W7 possui um `README.md` em sua raiz informando sua finalidade e, se for uma iniciativa ou repositório de produto, a qual iniciativa ele pertence (de acordo com o [Framework de Iniciativas](../framework/initiative-framework.md)).
 - Cada repositório possui um `LICENSE` apropriado à abertura pretendida — escolhido deliberadamente, não deixado como padrão.
 - `main` está sempre funcionando e em estado consistente com a documentação. O trabalho em andamento acontece nas filiais, não anunciado diretamente como concluído em `main`.
 
@@ -37,7 +37,7 @@ Este documento define como GitHub é usado nos repositórios W7: ramificação, 
 
 ## Confirmações
 
-Os commits seguem [Conventional Commits](https://www.conventionalcommits.org/): `type(scope): summary`, correspondendo ao [Engineering Standard](engineering-standard.md). Quando o motivo não está claro no resumo e no registro de decisão ao redor, o corpo do commit explica *por que*, não apenas *o que* — a comparação já mostra o que mudou.
+Os commits seguem [Conventional Commits](https://www.conventionalcommits.org/): `type(scope): summary`, correspondendo ao [Padrão de Engenharia](engineering-standard.md). Quando o motivo não está claro no resumo e no registro de decisão ao redor, o corpo do commit explica *por que*, não apenas *o que* — a comparação já mostra o que mudou.
 
 ---
 

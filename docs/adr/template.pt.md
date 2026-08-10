@@ -22,7 +22,7 @@ As ADR existem para responder a uma pergunta para um futuro leitor: *porque é q
 
 ## O que se qualifica para um ADR
 
-De acordo com a [Framework de Decisão](../framework/decision-framework.md): qualquer coisa que altere um documento da camada de Fundação, Identidade, Governança ou Estrutura, crie ou retire uma iniciativa, introduza uma convenção que outras iniciativas herdarão ou que seja caro para reverter.
+De acordo com a [Framework de Decisão](../framework/decision-framework.md): qualquer coisa que altere um documento da camada de Fundamentos, Identidade, Governança ou Framework, crie ou retire uma iniciativa, introduza uma convenção que outras iniciativas herdarão ou que seja caro para reverter.
 
 ---
 
@@ -73,5 +73,5 @@ Um ADR nunca é editado para alterar sua conclusão depois de ser `Accepted`. Se
 
 ## Documentos Relacionados
 
-- [Decision Framework](../framework/decision-framework.md) — quando este modelo é usado
+- [Framework de Decisão](../framework/decision-framework.md) — quando este modelo é usado
 - [ADR-0001](0001-github-as-source-of-truth.md), [ADR-0002](0002-layered-repository-architecture.md), [ADR-0003](0003-initiative-governance-model.md) — as três primeiras decisões registradas usando este modelo

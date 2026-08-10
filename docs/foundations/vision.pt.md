@@ -64,4 +64,4 @@ Enjoy the Journey.
 
 - [Constituição](constitution.md) — O Artigo III declara esta Visão como lei aplicável
 - [Roadmap](../roadmap/roadmap.md) — como esta Visão está sendo perseguida na prática
-- [Legacy](legacy.md) — como o sucesso é medido em última análise
+- [Legado](legacy.md) — como o sucesso é medido em última análise

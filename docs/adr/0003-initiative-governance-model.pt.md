@@ -14,7 +14,7 @@ W7 foi projetado para funcionar quer continue sendo uma marca pessoal, tornando-
 
 ## Decisão
 
-As iniciativas têm total autonomia sobre os seus próprios produtos, voz e escolhas tecnológicas, herdando as camadas Fundação, Identidade e Estrutura por referência e não por cópia. Eles não têm autoridade unilateral para alterar essas camadas herdadas — tais mudanças passam pelo [Framework de Decisão](../framework/decision-framework.md), independentemente da iniciativa que as propõe. A autoridade é atribuída por camada em [Governance](../framework/governance.md), nomeando explicitamente o fundador como o atual detentor da autoridade em cada camada, em vez de deixá-la implícita.
+As iniciativas têm total autonomia sobre os seus próprios produtos, voz e escolhas tecnológicas, herdando as camadas Fundamentos, Identidade e Framework por referência e não por cópia. Eles não têm autoridade unilateral para alterar essas camadas herdadas — tais mudanças passam pelo [Framework de Decisão](../framework/decision-framework.md), independentemente da iniciativa que as propõe. A autoridade é atribuída por camada em [Governança](../framework/governance.md), nomeando explicitamente o fundador como o atual detentor da autoridade em cada camada, em vez de deixá-la implícita.
 
 ## Alternativas consideradas
 
@@ -24,7 +24,7 @@ As iniciativas têm total autonomia sobre os seus próprios produtos, voz e esco
 
 ## Consequências
 
-Um futuro líder de iniciativa sabe exatamente o que pode decidir unilateralmente versus o que requer passar pela [Framework de Decisão](../framework/decision-framework.md). Trazer um colaborador ou uma segunda iniciativa não requer a invenção de um modelo de governança sob pressão de tempo — [Governance](../framework/governance.md) já tem uma função para eles. O custo é que hoje, com um único fundador, parte desta estrutura ainda não é resistente; ele é aceito como documentação para um estado em que W7 foi projetado para crescer, e não como evidência de que essa complexidade seja necessária hoje.
+Um futuro líder de iniciativa sabe exatamente o que pode decidir unilateralmente versus o que requer passar pela [Framework de Decisão](../framework/decision-framework.md). Trazer um colaborador ou uma segunda iniciativa não requer a invenção de um modelo de governança sob pressão de tempo — [Governança](../framework/governance.md) já tem uma função para eles. O custo é que hoje, com um único fundador, parte desta estrutura ainda não é resistente; ele é aceito como documentação para um estado em que W7 foi projetado para crescer, e não como evidência de que essa complexidade seja necessária hoje.
 
 ## Relacionados
 

@@ -26,14 +26,14 @@ A autoridade segue o modelo de camada em [Visão geral da arquitetura](../archit
 
 | Camada | Quem pode propor alterações | Quem aprova |
 |---|---|---|
-| Fundação | Qualquer pessoa contribuindo para W7 | Fundador (hoje); um administrador designado da Fundação no futuro |
+| Fundamentos | Qualquer pessoa contribuindo para W7 | Fundador (hoje); um administrador designado dos Fundamentos no futuro |
 | Identidade | Qualquer pessoa contribuindo para W7 | Fundador ou quem detém a propriedade da marca |
 | Governança | Qualquer pessoa contribuindo para W7 | Fundador; requer um ADR |
-| Estrutura | Qualquer pessoa contribuindo para W7 | Fundador ou mantenedor do framework |
-| Iniciativas | Mantenedores da iniciativa | Liderança da iniciativa, dentro dos limites do Quadro |
+| Framework | Qualquer pessoa contribuindo para W7 | Fundador ou mantenedor do framework |
+| Iniciativas | Mantenedores da iniciativa | Liderança da iniciativa, dentro dos limites do Framework |
 | Produtos | Mantenedores de produtos | Líder de produto/iniciativa |
 
-Um líder de iniciativa tem autoridade total sobre os produtos e experiências de sua própria iniciativa. Eles não têm autoridade para alterar unilateralmente as camadas de Fundação, Identidade ou Estrutura — essas mudanças passam pela [Framework de Decisão](decision-framework.md) porque afetam todas as outras iniciativas também.
+Um líder de iniciativa tem autoridade total sobre os produtos e experiências de sua própria iniciativa. Eles não têm autoridade para alterar unilateralmente as camadas de Fundamentos, Identidade ou Framework — essas mudanças passam pela [Framework de Decisão](decision-framework.md) porque afetam todas as outras iniciativas também.
 
 ---
 
@@ -51,7 +51,7 @@ A [Constituição](../foundations/constitution.md) é o único documento com um 
 
 1. Deve ser proposta por escrito, indicando quais artigos serão alterados e por quê.
 2. Deve ser registrado como ADR, por menor que pareça.
-3. Entra em vigor somente após o fundador (ou, no futuro, qualquer órgão de governança que detenha a autoridade da Fundação) aprová-lo explicitamente.
+3. Entra em vigor somente após o fundador (ou, no futuro, qualquer órgão de governança que detenha a autoridade dos Fundamentos) aprová-lo explicitamente.
 4. Nunca acontece silenciosamente como efeito colateral de outra mudança.
 
 ---
@@ -66,5 +66,5 @@ Trazer uma nova iniciativa ou um novo contribuidor com autoridade de governaçã
 
 - [Constituição](../foundations/constitution.md), Artigo VI — as questões que toda decisão de governança deve responder
 - [Framework de Decisão](decision-framework.md) — o processo sobre o qual este documento atribui autoridade
-- [Initiative Framework](initiative-framework.md) — como os líderes de iniciativa adquirem sua autoridade em primeiro lugar
+- [Framework de Iniciativas](initiative-framework.md) — como os líderes de iniciativa adquirem sua autoridade em primeiro lugar
 - [Visão geral da arquitetura](../architecture/overview.md) — a autoridade do modelo de camada é organizada em torno

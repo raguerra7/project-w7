@@ -44,10 +44,10 @@ Respondendo às quatro questões da Constituição (Artigo VI) ao nível da inic
 
 ## O que WarTips herda de W7
 
-- A [Constituição](../../foundations/constitution.md), [Manifesto](../../foundations/manifesto.md) e [Legacy](../../foundations/legacy.md), por referência.
-- Regras [Identity](../../identity/brand-architecture.md) de W7 sobre como uma marca de iniciativa se relaciona com a marca do ecossistema mestre.
+- A [Constituição](../../foundations/constitution.md), [Manifesto](../../foundations/manifesto.md) e [Legado](../../foundations/legacy.md), por referência.
+- Regras [Identidade](../../identity/brand-architecture.md) de W7 sobre como uma marca de iniciativa se relaciona com a marca do ecossistema mestre.
 - A [Padrão de Documentação](../../standards/documentation-standard.md) e a [Padrão de Engenharia](../../standards/engineering-standard.md).
-- O modelo [Governance](../../framework/governance.md), pois WarTips atualmente não possui estrutura de governança própria.
+- O modelo [Governança](../../framework/governance.md), pois WarTips atualmente não possui estrutura de governança própria.
 
 ---
 
@@ -64,9 +64,9 @@ Respondendo às quatro questões da Constituição (Artigo VI) ao nível da inic
 | Propriedade | Valor |
 |---|---|
 | Estado | Ativo |
-| Palco | Cedo — estabelecendo sua página inicial de documentação e primeiras dicas publicadas |
-| Produtos | Nenhum registrado formalmente ainda sob o [Product Framework](../../framework/product-framework.md) |
-| Repositório | Para ser estabelecido como volume de conteúdo garante um repositório dedicado, de acordo com o [GitHub Standard](../../standards/github-standard.md) |
+| Estágio | Inicial — estabelecendo sua página inicial de documentação e primeiras dicas publicadas |
+| Produtos | Nenhum registrado formalmente ainda sob o [Framework de Produtos](../../framework/product-framework.md) |
+| Repositório | A ser criado quando o volume de conteúdo justificar um repositório dedicado, de acordo com o [Padrão do GitHub](../../standards/github-standard.md) |
 
 Como WarTips produz produtos distintos — uma ferramenta, um curso estruturado, uma base de conhecimento pesquisável — cada um será registrado aqui seguindo a Framework de Produtos, em vez de ser dobrado silenciosamente nesta única página.
 
@@ -74,7 +74,7 @@ Como WarTips produz produtos distintos — uma ferramenta, um curso estruturado,
 
 ## Documentos Relacionados
 
-- [Initiative Framework](../../framework/initiative-framework.md) — o processo que este registro segue
-- [Product Framework](../../framework/product-framework.md) — como um futuro produto WarTips é criado
+- [Framework de Iniciativas](../../framework/initiative-framework.md) — o processo que este registro segue
+- [Framework de Produtos](../../framework/product-framework.md) — como um futuro produto WarTips é criado
 - [Roadmap](../../roadmap/roadmap.md) — onde as prioridades de curto prazo de WarTips são rastreadas
 - [Manifesto](../../foundations/manifesto.md) — a filosofia WarTips existe para colocar em prática

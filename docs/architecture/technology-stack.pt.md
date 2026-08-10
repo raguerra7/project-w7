@@ -47,7 +47,7 @@ A pilha favorece formatos abertos, ferramentas estabelecidas e serviços hospeda
 
 ## O que deliberadamente não está aqui
 
-Não há banco de dados, serviço de back-end e nenhuma etapa de construção que não seja um gerador de site estático. Se uma iniciativa futura precisar de algum desses, é decisão dessa iniciativa tomar em seu próprio repositório, seguindo o [Product Framework](../framework/product-framework.md) - ela não se torna parte da pilha deste repositório.
+Não há banco de dados, serviço de back-end e nenhuma etapa de construção que não seja um gerador de site estático. Se uma iniciativa futura precisar de algum desses, é decisão dessa iniciativa tomar em seu próprio repositório, seguindo o [Framework de Produtos](../framework/product-framework.md) - ela não se torna parte da pilha deste repositório.
 
 ---
 
@@ -60,6 +60,6 @@ GitHub foi escolhido por conveniência e alcance, não porque W7 dependa de sua 
 ## Documentos Relacionados
 
 - [Visão geral da arquitetura](overview.md) — o modelo de camada que esta pilha suporta
-- [GitHub Standard](../standards/github-standard.md) — como este repositório é realmente usado no dia a dia
-- [Engineering Standard](../standards/engineering-standard.md) — como se espera que os repositórios de iniciativa operem
-- [ADR-0001: GitHub como a única fonte da verdade](../adr/0001-github-as-source-of-truth.md) — a decisão de tornar GitHub a fonte da verdade
+- [Padrão do GitHub](../standards/github-standard.md) — como este repositório é realmente usado no dia a dia
+- [Padrão de Engenharia](../standards/engineering-standard.md) — como se espera que os repositórios de iniciativa operem
+- [ADR-0001: GitHub como a única fonte de verdade](../adr/0001-github-as-source-of-truth.md) — a decisão de tornar GitHub a fonte de verdade

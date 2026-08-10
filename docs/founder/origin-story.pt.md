@@ -16,7 +16,7 @@ Este documento conta a história de como W7 começou - não como marketing, mas 
 
 ## Contexto
 
-Os documentos operacionais do W7 explicam o que é o ecossistema e como funciona. Este relato preserva a sequência de hábitos e decisões que levaram a esses documentos, sem dar à história autoridade sobre a Fundação ativa.
+Os documentos operacionais do W7 explicam o que é o ecossistema e como funciona. Este relato preserva a sequência de hábitos e decisões que levaram a esses documentos, sem dar à história autoridade sobre a Fundamentos ativa.
 
 ---
 

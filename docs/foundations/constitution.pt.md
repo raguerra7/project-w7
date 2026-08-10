@@ -131,7 +131,7 @@ Enjoy the Journey.
 ## Documentos Relacionados
 
 - [Manifesto](manifesto.md) — por que acreditamos no que acreditamos
-- [Vision](vision.md) — para onde isso vai dar
-- [Legacy](legacy.md) — o que deve permanecer
+- [Visão](vision.md) — para onde isso vai dar
+- [Legado](legacy.md) — o que deve permanecer
 - [Governança](../framework/governance.md) — como esta Constituição é aplicada e alterada
 - [Carta do Fundador](../founder/founder-letter.md) — o relato pessoal por trás do Artigo I

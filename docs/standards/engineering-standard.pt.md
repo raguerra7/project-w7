@@ -26,7 +26,7 @@ O próprio `project-w7` não contém código de aplicativo, mas muitas iniciativ
 
 **Commits seguem [Conventional Commits](https://www.conventionalcommits.org/)**: `type(scope): summary`, onde type é `feat`, `fix`, `docs`, `refactor`, `chore`, `test`, `ci`. Isso não é uma preferência estilística – é o que torna possíveis os registros de alterações automatizados e a pesquisa de histórico daqui a alguns anos.
 
-**Toda decisão não trivial e difícil de ser revertida recebe um ADR**, seguindo o [Decision Framework](../framework/decision-framework.md), no repositório que ela afeta.
+**Toda decisão não trivial e difícil de ser revertida recebe um ADR**, seguindo o [Framework de Decisão](../framework/decision-framework.md), no repositório que ela afeta.
 
 **Legível em vez de inteligente.** O código é lido com muito mais frequência do que escrito. Uma solução que requer um parágrafo de explicação para justificar a sua inteligência normalmente deveria ser a mais simples e mais óbvia.
 
@@ -40,7 +40,7 @@ O próprio `project-w7` não contém código de aplicativo, mas muitas iniciativ
 
 ## Avaliações
 
-Mudanças no código compartilhado adjacente à Fundação (qualquer coisa de que outra iniciativa ou produto dependa) passam por revisão antes da fusão, mesmo quando o autor é o único contribuidor no momento — a auto-revisão com atraso (ler a comparação novamente depois de se afastar) é um substituto aceitável para uma segunda pessoa, mas não é ignorada.
+Mudanças no código compartilhado adjacente à Fundamentos (qualquer coisa de que outra iniciativa ou produto dependa) passam por revisão antes da merge, mesmo quando o autor é o único contribuidor no momento — a auto-revisão com atraso (ler a comparação novamente depois de se afastar) é um substituto aceitável para uma segunda pessoa, mas não é ignorada.
 
 ---
 
@@ -62,6 +62,6 @@ Este padrão não exige uma linguagem, estrutura, provedor de nuvem ou padrão d
 ## Documentos Relacionados
 
 - [Tecnologia Stack](../architecture/technology-stack.md) — as escolhas de ferramentas da camada base das quais os princípios deste padrão são extraídos
-- [Decision Framework](../framework/decision-framework.md) — quando uma decisão de engenharia precisa de um ADR
-- [GitHub Standard](github-standard.md) — como esse padrão é aplicado na prática por meio de convenções de repositório
+- [Framework de Decisão](../framework/decision-framework.md) — quando uma decisão de engenharia precisa de um ADR
+- [Padrão do GitHub](github-standard.md) — como esse padrão é aplicado na prática por meio de convenções de repositório
 - [Padrão de Documentação](documentation-standard.md) — o padrão equivalente para documentação

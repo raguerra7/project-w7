@@ -16,7 +16,7 @@ Este documento define as regras concretas que todos os documentos em W7 seguem, 
 
 ## Contexto
 
-Os princípios por si só (“escrever claramente”) não evitam a deriva; regras concretas e verificáveis ​​sim. Este padrão existe para que qualquer documento – escrito pelo fundador, um colaborador ou com assistência de IA sob o [AI Usage Standard](ai-usage-standard.md) – possa ser verificado na mesma barra.
+Os princípios por si só (“escrever claramente”) não evitam a deriva; regras concretas e verificáveis ​​sim. Este padrão existe para que qualquer documento – escrito pelo fundador, um colaborador ou com assistência de IA sob o [Padrão de Uso de IA](ai-usage-standard.md) – possa ser verificado pelo mesmo padrão.
 
 ---
 
@@ -44,7 +44,7 @@ ADRs são a exceção deliberada: registros de decisão numerados seguem o [mode
 
 ---
 
-## Estrutura e Formatação
+## Framework e Formatação
 
 - Markdown compatível com CommonMark, portanto sua fonte permanece legível em GitHub, MkDocs e qualquer editor de texto simples. Extensões configuradas no repositório, como Mermaid, podem aprimorar o site renderizado sem substituir a fonte legível.
 - Os títulos utilizam `#`/`##` hierarquicamente; não pule níveis.
@@ -62,13 +62,13 @@ O `Version` de um documento aumenta (`1.0.0` → `1.1.0`) em qualquer alteraçã
 
 ## Revisão
 
-Qualquer documento que altere um arquivo de camada de Fundação, Identidade, Governança ou Estrutura passa pelo [Decision Framework](../framework/decision-framework.md) antes da fusão, independentemente de quão pequena a mudança pareça.
+Qualquer documento que altere um arquivo de camada de Fundamentos, Identidade, Governança ou Framework passa pelo [Framework de Decisão](../framework/decision-framework.md) antes da merge, independentemente de quão pequena a mudança pareça.
 
 ---
 
 ## Documentos Relacionados
 
 - [Arquitetura do Conhecimento](../architecture/knowledge-architecture.md) — por que essas regras existem estruturalmente
-- [GitHub Standard](github-standard.md) — como os documentos passam pela revisão e mesclagem
-- [AI Usage Standard](ai-usage-standard.md) — como este padrão se aplica à escrita assistida por IA
-- [Engineering Standard](engineering-standard.md) — o padrão equivalente para código
+- [Padrão do GitHub](github-standard.md) — como os documentos passam pela revisão e mesclagem
+- [Padrão de Uso de IA](ai-usage-standard.md) — como este padrão se aplica à escrita assistida por IA
+- [Padrão de Engenharia](engineering-standard.md) — o padrão equivalente para código

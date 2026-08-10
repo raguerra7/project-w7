@@ -25,10 +25,10 @@ Um roteiro para um ecossistema que deverá durar uma década não é um plano fi
 | Prioridade | Por que |
 |---|---|
 | Camada de fundação concluída | A Constituição, o Manifesto, a Visão e o Legado precisavam existir antes que qualquer outra coisa pudesse herdar deles com segurança |
-| Camadas de arquitetura e estrutura concluídas | Novas iniciativas precisam de um processo documentado antes que um segundo seja criado, de acordo com [Initiative Framework](../framework/initiative-framework.md) |
+| Camadas de arquitetura e estrutura concluídas | Novas iniciativas precisam de um processo documentado antes que um segundo seja criado, de acordo com [Framework de Iniciativas](../framework/initiative-framework.md) |
 | Padrões concluídos | A qualidade da documentação e da engenharia não deve depender de quem está escrevendo naquele dia |
-| WarTips estabelecido como iniciativa de referência | Prova que o Quadro de Iniciativas funciona na prática, não apenas no papel |
-| Fundação v1.0 documentada | Missão, valores, modelo operacional, sistema de identidade e registro de iniciativas completam a linha de base governante |
+| WarTips estabelecido como iniciativa de referência | Prova que o Framework de Iniciativas funciona na prática, não apenas no papel |
+| Fundamentos v1.0 documentada | Missão, valores, modelo operacional, sistema de identidade e registro de iniciativas completam a linha de base governante |
 
 ---
 
@@ -37,7 +37,7 @@ Um roteiro para um ecossistema que deverá durar uma década não é um plano fi
 | Prioridade | Por que |
 |---|---|
 | Publique o site de documentação via MkDocs | Torna este repositório legível sem cloná-lo, de acordo com [Technology Stack](../architecture/technology-stack.md) |
-| Primeiro produto registrado de WarTips | A iniciativa atualmente não tem nenhum produto formalmente rastreado sob a [Estrutura de Produto](../framework/product-framework.md) |
+| Primeiro produto registrado de WarTips | A iniciativa atualmente não tem nenhum produto formalmente rastreado sob a [Framework de Produtos](../framework/product-framework.md) |
 | Avaliar uma segunda iniciativa (Home Lab ou Camarim) | Testa se a Framework de Iniciativas é válida para algo diferente de WarTips |
 
 ---
@@ -47,7 +47,7 @@ Um roteiro para um ecossistema que deverá durar uma década não é um plano fi
 | Prioridade | Por que |
 |---|---|
 | Ativos de identidade de produção para W7 e WarTips | A direção da identidade está documentada; arquivos finais de logotipo e bloqueios exigem uma revisão de ativos concretos |
-| Governança formal além de um único fundador | Só se torna necessário quando um segundo contribuidor com autoridade real se junta, de acordo com [Governance](../framework/governance.md) |
+| Governança formal além de um único fundador | Só se torna necessário quando um segundo contribuidor com autoridade real se junta, de acordo com [Governança](../framework/governance.md) |
 | Iniciativas de academia, consultoria e código aberto | Apontados como possíveis futuros no âmbito da Constituição, ainda não avaliados face ao [Marco de Iniciativa](../framework/initiative-framework.md) |
 
 ---
@@ -58,7 +58,7 @@ Qualquer coisa que exija assumir que W7 já é uma empresa – estrutura jurídi
 
 ---## Documentos Relacionados
 
-- [Initiative Framework](../framework/initiative-framework.md) — como uma iniciativa "Próximo" ou "Mais Tarde" é formalmente criada
-- [Vision](../foundations/vision.md) — a direção de longo prazo em que este roteiro é um passo em direção
-- [Estrutura de decisão](../framework/decision-framework.md) — como um item do roteiro é promovido de ideia a compromisso
+- [Framework de Iniciativas](../framework/initiative-framework.md) — como uma iniciativa "Próximo" ou "Mais Tarde" é formalmente criada
+- [Visão](../foundations/vision.md) — a direção de longo prazo em que este roteiro é um passo em direção
+- [Framework de Decisão](../framework/decision-framework.md) — como um item do roteiro é promovido de ideia a compromisso
 - [Modelo Operacional](../foundations/operating-model.md) — o ciclo usado para entregar o trabalho do roteiro

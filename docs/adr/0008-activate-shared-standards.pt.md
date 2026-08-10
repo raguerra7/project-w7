@@ -32,7 +32,7 @@ Ative a versão 1.1.0 dos padrões Documentação, Engenharia, GitHub, Uso de IA
 
 ## Consequências
 
-O trabalho W7 compartilhado agora tem uma barra mínima ativa para documentação, engenharia, colaboração GitHub, trabalho assistido por IA e classificação de informações. Os padrões específicos da iniciativa podem acrescentar restrições, mas não enfraquecer estas linhas de base. Os colaboradores devem exercer julgamento sobre a aprovação da ferramenta e permanecer responsáveis ​​pelos resultados assistidos por IA.
+O trabalho W7 compartilhado agora tem uma padrão mínimo ativa para documentação, engenharia, colaboração GitHub, trabalho assistido por IA e classificação de informações. Os padrões específicos da iniciativa podem acrescentar restrições, mas não enfraquecer estas linhas de base. Os colaboradores devem exercer julgamento sobre a aprovação da ferramenta e permanecer responsáveis ​​pelos resultados assistidos por IA.
 
 ## Relacionados
 

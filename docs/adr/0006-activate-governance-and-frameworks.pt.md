@@ -14,14 +14,14 @@ As estruturas de Governança, Decisão, Iniciativa e Produto de W7 já descrevia
 
 ## Avaliação Constitucional
 
-- **Por que isso deveria existir?** Regras operacionais ativas são necessárias para aplicar a Fundação e a Identidade de forma consistente.
+- **Por que isso deveria existir?** Regras operacionais ativas são necessárias para aplicar a Fundamentos e a Identidade de forma consistente.
 - **Quem se beneficia?** O fundador, futuros mantenedores, líderes de iniciativas e contribuidores de produtos ganham autoridade explícita e processos de criação repetíveis.
 - **Permanecerá valioso ao longo do tempo?** Sim. As regras definem funções e limites de decisão independentemente do tamanho atual da equipe ou de produtos específicos.
 - **Isso fortalece o ecossistema W7?** Sim. Os processos partilhados evitam a governação duplicada, a criação de iniciativas inconsistentes e produtos órfãos.
 
 ## Decisão
 
-Ative a versão 1.1.0 de Governança, Framework de Decisão, Framework de Iniciativas e Estrutura de Produto como modelo operacional do W7. Mudanças significativas na Fundação, Identidade, Governança ou Estrutura exigem a Framework de Decisão. Novas iniciativas utilizam o modelo de iniciativa canônica e os produtos são registrados exatamente sob uma iniciativa proprietária.
+Ative a versão 1.1.0 de Governança, Framework de Decisão, Framework de Iniciativas e Framework de Produtos como modelo operacional do W7. Mudanças significativas nos Fundamentos, Identidade, Governança ou Framework exigem o Framework de Decisão. Novas iniciativas utilizam o modelo de iniciativa canônica e os produtos são registrados exatamente sob uma iniciativa proprietária.
 
 ## Alternativas consideradas
 

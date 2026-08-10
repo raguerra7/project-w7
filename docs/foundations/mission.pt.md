@@ -39,13 +39,13 @@ W7 cumpre esta missão ao:
 
 ## Limites
 
-A missão não exige que W7 se torne um tipo específico de organização. Pode apoiar trabalho, educação, consultoria, produtos, pesquisa ou outras formas de código aberto, quando satisfizerem a Constituição e o Quadro da Iniciativa.
+A missão não exige que W7 se torne um tipo específico de organização. Pode apoiar trabalho, educação, consultoria, produtos, pesquisa ou outras formas de código aberto, quando satisfizerem a Constituição e o Framework de Iniciativas.
 
 ---
 
 ## Documentos Relacionados
 
 - [Constituição](constitution.md) — a fonte governante desta missão
-- [Vision](vision.md) — o futuro que esta missão serve
+- [Visão](vision.md) — o futuro que esta missão serve
 - [Modelo Operacional](operating-model.md) — como a missão se torna um trabalho repetível
-- [Initiative Framework](../framework/initiative-framework.md) — como são criadas iniciativas alinhadas à missão
+- [Framework de Iniciativas](../framework/initiative-framework.md) — como são criadas iniciativas alinhadas à missão

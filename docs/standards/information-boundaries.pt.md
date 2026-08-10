@@ -52,13 +52,13 @@ Cada informação tratada em W7 se enquadra em uma das três classes:
 | Interno | Detalhe do roteiro, planos de produtos não divulgados, rascunhos de ADRs | Repositórios GitHub privados |
 | Privado | Credenciais, reflexões pessoais privadas, divergências não resolvidas, qualquer coisa sobre uma pessoa específica sem o seu consentimento | Nunca enviado ao Git, em qualquer repositório, público ou privado |
 
-Credenciais e segredos são privados por definição e são regidos pela regra do [Engineering Standard](engineering-standard.md) de que eles nunca entram no controle de versão - um repositório privado também não é um local aceitável para um segredo, porque a visibilidade pode mudar e o histórico é difícil de limpar completamente.
+Credenciais e segredos são privados por definição e são regidos pela regra do [Padrão de Engenharia](engineering-standard.md) de que eles nunca entram no controle de versão - um repositório privado também não é um local aceitável para um segredo, porque a visibilidade pode mudar e o histórico é difícil de limpar completamente.
 
 ---
 
 ## Ferramentas de IA e este limite
 
-As ferramentas de IA que auxiliam no trabalho do W7 podem receber informações públicas. As informações internas são fornecidas apenas para ferramentas aprovadas para o repositório relevante e contexto de tratamento de dados, de acordo com o [AI Usage Standard](ai-usage-standard.md). As informações privadas não são coladas em contextos de ferramentas de IA, prompts ou documentação gerada, independentemente da conveniência.
+As ferramentas de IA que auxiliam no trabalho do W7 podem receber informações públicas. As informações internas são fornecidas apenas para ferramentas aprovadas para o repositório relevante e contexto de tratamento de dados, de acordo com o [Padrão de Uso de IA](ai-usage-standard.md). As informações privadas não são coladas em contextos de ferramentas de IA, prompts ou documentação gerada, independentemente da conveniência.
 
 ---
 
@@ -66,5 +66,5 @@ As ferramentas de IA que auxiliam no trabalho do W7 podem receber informações 
 
 - [Arquitetura do Conhecimento](../architecture/knowledge-architecture.md) — o modelo de dois repositórios que esse limite define em detalhes
 - [Padrão de uso de IA](ai-usage-standard.md) — como esse limite se aplica ao trabalho assistido por IA
-- [Padrão de Documentação](documentation-standard.md) — a barra que uma nota deve limpar para passar de Obsidian para GitHub
-- [Engineering Standard](engineering-standard.md) — a regra de que segredos nunca entram no controle de versão
+- [Padrão de Documentação](documentation-standard.md) — o padrão que uma nota deve cumprir para passar de Obsidian para GitHub
+- [Padrão de Engenharia](engineering-standard.md) — a regra de que segredos nunca entram no controle de versão

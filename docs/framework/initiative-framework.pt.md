@@ -24,7 +24,7 @@ WarTips é a primeira iniciativa. Não será o último. Sem uma estrutura escrit
 
 Uma iniciativa é um esforço distinto – técnico, educacional, criativo ou outro – criado no ecossistema W7 para perseguir um propósito específico, com seu próprio público, sua própria cadência e, normalmente, seu próprio repositório.
 
-Uma iniciativa **não** é uma entidade legal, um produto ou uma equipe. Pode eventualmente conter vários produtos (consulte [Product Framework](product-framework.md)) ou nenhum ainda. WarTips hoje é uma iniciativa única expressa por meio de documentação e conteúdo; pode evoluir para vários produtos posteriormente sem se tornar uma iniciativa diferente.
+Uma iniciativa **não** é uma entidade legal, um produto ou uma equipe. Pode eventualmente conter vários produtos (consulte [Framework de Produtos](product-framework.md)) ou nenhum ainda. WarTips hoje é uma iniciativa única expressa por meio de documentação e conteúdo; pode evoluir para vários produtos posteriormente sem se tornar uma iniciativa diferente.
 
 ---
 
@@ -32,9 +32,9 @@ Uma iniciativa **não** é uma entidade legal, um produto ou uma equipe. Pode ev
 
 Toda iniciativa, sem exceção, herda das camadas acima dela em [Visão Geral da Arquitetura](../architecture/overview.md):
 
-- A [Constituição](../foundations/constitution.md), [Manifesto](../foundations/manifesto.md), [Vision](../foundations/vision.md) e [Legacy](../foundations/legacy.md) – por referência, nunca por cópia.
-- O W7 [Identity](../identity/brand-architecture.md) rege como ele se relaciona com a marca master.
-- O modelo [Governance](governance.md), pelo menos até ganhar escala suficiente para garantir a sua própria camada de governação específica para a iniciativa.
+- A [Constituição](../foundations/constitution.md), [Manifesto](../foundations/manifesto.md), [Visão](../foundations/vision.md) e [Legado](../foundations/legacy.md) – por referência, nunca por cópia.
+- O W7 [Identidade](../identity/brand-architecture.md) rege como ele se relaciona com a marca master.
+- O modelo [Governança](governance.md), pelo menos até ganhar escala suficiente para garantir a sua própria camada de governação específica para a iniciativa.
 - Os padrões [Documentação](../standards/documentation-standard.md), [Engenharia](../standards/engineering-standard.md) e [GitHub](../standards/github-standard.md).
 
 ---
@@ -54,7 +54,7 @@ Uma iniciativa que precisa contradizer um princípio da camada de base para ter 
 2. **Responder às quatro questões da Constituição** (Artigo VI) para a iniciativa como um todo, e não apenas para um único produto dentro dela.
 3. **Registre-o** em `docs/initiatives/<initiative-name>/README.md` neste repositório, usando `templates/initiative-template.md`. WarTips é o primeiro exemplo concluído, não o modelo em si.
 4. **Adicione-o à tabela de ecossistema** na raiz `README.md` e ao [Roadmap](../roadmap/roadmap.md) se ainda não estiver ativo.
-5. **Criar repositório próprio da iniciativa**, caso necessite, seguindo a [Norma GitHub](../standards/github-standard.md).
+5. **Criar repositório próprio da iniciativa**, caso necessite, seguindo a [Padrão do GitHub](../standards/github-standard.md).
 
 Uma nova iniciativa não precisa de permissão para existir experimentalmente – ela precisa desse processo antes de ser apresentada como parte oficial e ativa do ecossistema W7.
 
@@ -62,14 +62,14 @@ Uma nova iniciativa não precisa de permissão para existir experimentalmente �
 
 ## Aposentando uma iniciativa
 
-As iniciativas terminam. Isso é esperado, não uma falha (consulte [Legacy](../foundations/legacy.md)). Aposentar um significa: marcar sua entrada `Status: Retired` em `docs/initiatives/`, manter sua documentação em vez de excluí-la e registrar a decisão como ADR caso a iniciativa tenha algum dependente dela.
+As iniciativas terminam. Isso é esperado, não uma falha (consulte [Legado](../foundations/legacy.md)). Aposentar um significa: marcar sua entrada `Status: Retired` em `docs/initiatives/`, manter sua documentação em vez de excluí-la e registrar a decisão como ADR caso a iniciativa tenha algum dependente dela.
 
 ---
 
 ## Documentos Relacionados
 
-- [Product Framework](product-framework.md) — como um produto específico dentro de uma iniciativa é criado
-- [Framework de Decisão](decision-framework.md) — como resolver um conflito entre uma iniciativa e a Fundação
+- [Framework de Produtos](product-framework.md) — como um produto específico dentro de uma iniciativa é criado
+- [Framework de Decisão](decision-framework.md) — como resolver um conflito entre uma iniciativa e a Fundamentos
 - `templates/initiative-template.md` — a estrutura de registro canônico na raiz do repositório
 - [WarTips](../initiatives/wartips/README.md) — a primeira iniciativa registrada com este framework
-- [Governance](governance.md) — como a autoridade sobre uma iniciativa é atribuída
+- [Governança](governance.md) — como a autoridade sobre uma iniciativa é atribuída

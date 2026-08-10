@@ -161,5 +161,5 @@ Enjoy the Journey.
 ## Documentos Relacionados
 
 - [Constituição](constitution.md) — a forma operacional dessas crenças
-- [Vision](vision.md) — para onde isso vai dar
-- [Legacy](legacy.md) — o que deve permanecer
+- [Visão](vision.md) — para onde isso vai dar
+- [Legado](legacy.md) — o que deve permanecer

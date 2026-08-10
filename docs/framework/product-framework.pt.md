@@ -1,4 +1,4 @@
-# Estrutura do produto
+# Framework de Produtos
 
 Version: 1.1.0
 
@@ -51,20 +51,20 @@ Um produto herda tudo o que sua iniciativa herda (consulte [Framework de Iniciat
 
 ## Ciclo de vida do produtoOs produtos passam por quatro estágios, e a documentação de cada produto deve indicar em qual estágio ele se encontra:
 
-| Palco | Significado |
+| Estágio | Significado |
 |---|---|
 | `Exploring` | Sendo validado; pode ser descartado sem cerimônia |
 | `Active` | Construída, mantida e foco atual da iniciativa |
 | `Maintained` | Estável, sem desenvolvimento ativo, mas apoiado |
 | `Retired` | Não é mais mantido; documentação guardada para continuidade histórica |
 
-A descontinuação de um produto não exige a desativação de sua iniciativa, e a desativação de uma iniciativa não apaga o registro dos produtos que ele enviou — consulte [Legacy](../foundations/legacy.md).
+A descontinuação de um produto não exige a desativação de sua iniciativa, e a desativação de uma iniciativa não apaga o registro dos produtos que ele enviou — consulte [Legado](../foundations/legacy.md).
 
 ---
 
 ## Documentos Relacionados
 
-- [Initiative Framework](initiative-framework.md) — a camada à qual um produto sempre pertence
-- [Estrutura de decisão](decision-framework.md) — como as decisões significativas do produto são avaliadas
+- [Framework de Iniciativas](initiative-framework.md) — a camada à qual um produto sempre pertence
+- [Framework de Decisão](decision-framework.md) — como as decisões significativas do produto são avaliadas
 - [Padrão de Engenharia](../standards/engineering-standard.md) — as regras concretas de engenharia que cada produto segue
 - [WarTips](../initiatives/wartips/README.md) — onde os produtos próprios de WarTips são rastreados

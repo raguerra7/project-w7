@@ -32,4 +32,4 @@ Os documentos aqui comunicam as motivações e intenções de longo prazo que in
 
 - [Constituição](../foundations/constitution.md) — a declaração canônica do propósito e princípios de W7
 - [Manifesto](../foundations/manifesto.md) — as crenças compartilhadas expressas operacionalmente
-- [Legacy](../foundations/legacy.md) — a intenção de longo prazo que esses documentos pessoais iluminam
+- [Legado](../foundations/legacy.md) — a intenção de longo prazo que esses documentos pessoais iluminam

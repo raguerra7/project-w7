@@ -16,7 +16,7 @@ Esta é uma carta pessoal, não um documento operacional. Ele existe para dizer,
 
 ## Contexto
 
-Os documentos da Fundação declaram os princípios da W7 de uma forma que outros podem aplicar. Esta carta preserva a intenção pessoal do fundador por trás desses princípios, sem substituir ou ampliar o seu significado operacional.
+Os documentos dos Fundamentos declaram os princípios da W7 de uma forma que outros podem aplicar. Esta carta preserva a intenção pessoal do fundador por trás desses princípios, sem substituir ou ampliar o seu significado operacional.
 
 ---
 
@@ -42,6 +42,6 @@ Enjoy the Journey. Com aqueles que você ama.
 
 ## Documentos Relacionados
 
-- [Origin Story](origin-story.md) - como isso realmente começou
+- [História de Origem](origin-story.md) - como isso realmente começou
 - [Manifesto](../foundations/manifesto.md) — as mesmas crenças, declaradas como princípio e não como carta pessoal
-- [Legacy](../foundations/legacy.md) — o que espero que dure mais que qualquer construção do W7
+- [Legado](../foundations/legacy.md) — o que espero que dure mais que qualquer construção do W7
