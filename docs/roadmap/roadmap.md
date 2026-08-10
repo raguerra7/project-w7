@@ -1,6 +1,6 @@
 # Roadmap
 
-Version: 1.0.0
+Version: 1.1.0
 
 Status: Active
 
@@ -28,6 +28,7 @@ A roadmap for an ecosystem meant to last a decade is not a fixed plan — it is 
 | Architecture and Framework layers complete | New initiatives need a documented process before a second one is created, per [Initiative Framework](../framework/initiative-framework.md) |
 | Standards complete | Documentation and engineering quality should not depend on who is writing that day |
 | WarTips established as the reference initiative | Proves the Initiative Framework works in practice, not just on paper |
+| Foundation v1.0 documented | Mission, values, operating model, identity system and initiative registry complete the governing baseline |
 
 ---
 
@@ -45,7 +46,7 @@ A roadmap for an ecosystem meant to last a decade is not a fixed plan — it is 
 
 | Priority | Why |
 |---|---|
-| Visual identity for W7 and WarTips | Deferred deliberately — see [Brand Architecture](../identity/brand-architecture.md) — until there is a concrete asset to design around |
+| Production identity assets for W7 and WarTips | The identity direction is documented; final logo files and lockups require a concrete asset review |
 | Formal governance beyond a single founder | Only becomes necessary once a second contributor with real authority joins, per [Governance](../framework/governance.md) |
 | Academy, Consulting, Open Source initiatives | Named as possible futures in the Constitution's scope, not yet evaluated against the [Initiative Framework](../framework/initiative-framework.md) |
 
@@ -62,3 +63,4 @@ Anything that would require assuming W7 is already a company — dedicated legal
 - [Initiative Framework](../framework/initiative-framework.md) — how a "Next" or "Later" initiative gets formally created
 - [Vision](../foundations/vision.md) — the long-term direction this roadmap is a step toward
 - [Decision Framework](../framework/decision-framework.md) — how a roadmap item gets promoted from idea to commitment
+- [Operating Model](../foundations/operating-model.md) — the cycle used to deliver roadmap work

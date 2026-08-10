@@ -39,11 +39,19 @@ nav:
   - Home: index.md
   - Foundations:
       - Constitution: foundations/constitution.md
+      - Mission: foundations/mission.md
+      - Values: foundations/values.md
+      - Principles of Building: foundations/principles-of-building.md
+      - Operating Model: foundations/operating-model.md
       - Manifesto: foundations/manifesto.md
       - Vision: foundations/vision.md
       - Legacy: foundations/legacy.md
   - Identity:
       - Brand Architecture: identity/brand-architecture.md
+      - Color System: identity/color-system.md
+      - Typography: identity/typography.md
+      - Voice and Tone: identity/voice-and-tone.md
+      - Visual Language: identity/visual-language.md
   - Architecture:
       - Overview: architecture/overview.md
       - Topology: architecture/topology.md
@@ -55,6 +63,7 @@ nav:
       - Initiative Framework: framework/initiative-framework.md
       - Product Framework: framework/product-framework.md
   - Initiatives:
+      - Registry: initiatives/README.md
       - WarTips: initiatives/wartips/README.md
   - Standards:
       - Documentation Standard: standards/documentation-standard.md
@@ -72,6 +81,7 @@ nav:
       - "ADR-0006 Activate Governance and Frameworks": adr/0006-activate-governance-and-frameworks.md
       - "ADR-0007 Activate Ecosystem Architecture": adr/0007-activate-ecosystem-architecture.md
       - "ADR-0008 Activate Shared Standards": adr/0008-activate-shared-standards.md
+      - "ADR-0009 Complete Foundation v1.0": adr/0009-complete-foundation-v1.md
   - Roadmap: roadmap/roadmap.md
   - Founder:
       - Overview: founder/README.md

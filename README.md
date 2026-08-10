@@ -84,11 +84,11 @@ The W7 documentation is organized into layers, each depending only on the layers
 
 ### [Foundations](docs/foundations/constitution.md)
 
-Defines why W7 exists: the [Constitution](docs/foundations/constitution.md), [Manifesto](docs/foundations/manifesto.md), [Vision](docs/foundations/vision.md) and [Legacy](docs/foundations/legacy.md). Nothing below this layer may contradict it.
+Defines why W7 exists and operates: the [Constitution](docs/foundations/constitution.md), [Mission](docs/foundations/mission.md), [Values](docs/foundations/values.md), [Principles of Building](docs/foundations/principles-of-building.md), [Operating Model](docs/foundations/operating-model.md), [Manifesto](docs/foundations/manifesto.md), [Vision](docs/foundations/vision.md), and [Legacy](docs/foundations/legacy.md). Nothing below this layer may contradict it.
 
 ### [Identity](docs/identity/brand-architecture.md)
 
-Defines how W7 and its initiatives relate to each other as brands.
+Defines how W7 and its initiatives relate and communicate through brand architecture, color, typography, voice, and visual language.
 
 ### [Architecture](docs/architecture/overview.md)
 
@@ -98,7 +98,7 @@ Defines how the ecosystem, its knowledge and its technology choices are structur
 
 Defines how new initiatives and products are created, evaluated and governed.
 
-### [Initiatives](docs/initiatives/wartips/README.md)
+### [Initiatives](docs/initiatives/README.md)
 
 Contains the active initiatives operating under W7, starting with WarTips.
 
@@ -125,7 +125,7 @@ Preserves the personal intent, letter and origin story behind W7. Not operationa
 | Property | Value |
 |----------|-------|
 | Stage | Foundation |
-| Version | 0.1.0 |
+| Version | 1.0.0 |
 | License | [MIT](LICENSE) |
 | Visibility | Private |
 | Documentation | MkDocs site builds from `docs/`; GitHub Pages requires public visibility (or a paid plan) to serve it — currently not published |
@@ -139,7 +139,7 @@ Current priorities
 - Publish the MkDocs documentation site when repository visibility and Pages access allow it
 - Register WarTips' first product under the Product Framework
 - Evaluate a second initiative to test the framework beyond WarTips
-- Develop visual identity only when a concrete asset creates the need
+- Produce final W7 and WarTips identity assets through the documented review process
 
 ---
 
