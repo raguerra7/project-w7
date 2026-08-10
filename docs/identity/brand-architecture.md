@@ -1,6 +1,6 @@
 # Brand Architecture
 
-Version: 1.1.0
+Version: 1.2.0
 
 Status: Active
 
@@ -10,7 +10,7 @@ Owner: Rafael da Silva Guerra
 
 ## Purpose
 
-This document defines how W7, as the master brand, relates to the initiatives created under it. It intentionally does not define visual identity (typography, color, voice and tone) — those are deferred until a specific initiative has an actual visual asset to design around.
+This document defines how W7, as the master brand, relates to the initiatives created under it and points to the shared identity system they inherit.
 
 ---
 
@@ -43,13 +43,13 @@ This model is defined independently of any single initiative. WarTips is its fir
 
 - Its own name and how prominently it stands relative to the W7 parent reference.
 - Its own tone, appropriate to its own audience — WarTips speaks differently than a future Academy initiative would, and that is by design, not an inconsistency to correct.
-- Its own visual expression, once one is warranted — see below.
+- Its own visual expression within W7's shared identity boundaries.
 
 ---
 
-## Why Visual Identity Is Deferred
+## Identity System
 
-Brand architecture establishes relationships between brands; visual identity expresses those relationships through concrete assets. Typography, color systems, lockups and detailed voice-and-tone guidance are deliberately not included here: W7 currently has no public-facing visual asset for them to govern, and specifying them before there is a real use case would mean guessing. When an initiative needs a visual identity, that need and the resulting decision are recorded as an ADR and produce the appropriate `docs/identity/` documents.
+W7's [Color System](color-system.md), [Typography](typography.md), [Voice and Tone](voice-and-tone.md), and [Visual Language](visual-language.md) define the shared identity baseline. They establish roles and principles without pretending that production logo files already exist. Initiative-specific identities may extend this system while keeping the W7 endorsement recognizable.
 
 ---
 
@@ -59,3 +59,4 @@ Brand architecture establishes relationships between brands; visual identity exp
 - [Constitution](../foundations/constitution.md) — the governing source for initiative identity and autonomy
 - [WarTips](../initiatives/wartips/README.md) — the first initiative applying this architecture
 - [Initiative Framework](../framework/initiative-framework.md) — the downstream process that applies the naming and identity rules
+- [Visual Language](visual-language.md) — shared visual direction and production asset governance
