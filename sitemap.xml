@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0001-github-as-source-of-truth/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0001-github-as-source-of-truth/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0001-github-as-source-of-truth/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0002-layered-repository-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0002-layered-repository-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0002-layered-repository-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0003-initiative-governance-model/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0003-initiative-governance-model/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0003-initiative-governance-model/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0004-activate-foundation-documents/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0004-activate-foundation-documents/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0004-activate-foundation-documents/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0005-activate-endorsed-brand-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0005-activate-endorsed-brand-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0005-activate-endorsed-brand-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0006-activate-governance-and-frameworks/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0006-activate-governance-and-frameworks/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0006-activate-governance-and-frameworks/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0007-activate-ecosystem-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0007-activate-ecosystem-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0007-activate-ecosystem-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0008-activate-shared-standards/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0008-activate-shared-standards/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0008-activate-shared-standards/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0009-complete-foundation-v1/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0009-complete-foundation-v1/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0009-complete-foundation-v1/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0010-adopt-w7-production-identity-assets/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0010-adopt-w7-production-identity-assets/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0010-adopt-w7-production-identity-assets/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/0011-adopt-integrated-w7-mark/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0011-adopt-integrated-w7-mark/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0011-adopt-integrated-w7-mark/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/adr/template/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/template/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/template/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/architecture/knowledge-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/architecture/knowledge-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/architecture/knowledge-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/architecture/overview/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/architecture/overview/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/architecture/overview/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/architecture/technology-stack/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/architecture/technology-stack/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/architecture/technology-stack/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/architecture/topology/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/architecture/topology/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/architecture/topology/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/foundations/constitution/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/constitution/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/constitution/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/foundations/legacy/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/legacy/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/legacy/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/foundations/manifesto/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/manifesto/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/manifesto/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/foundations/mission/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/mission/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/mission/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/foundations/operating-model/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/operating-model/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/operating-model/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/foundations/principles-of-building/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/principles-of-building/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/principles-of-building/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/foundations/values/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/values/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/values/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/foundations/vision/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/vision/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/vision/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/founder/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/founder/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/founder/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/founder/founder-letter/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/founder/founder-letter/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/founder/founder-letter/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/founder/origin-story/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/founder/origin-story/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/founder/origin-story/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/framework/decision-framework/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/framework/decision-framework/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/framework/decision-framework/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/framework/governance/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/framework/governance/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/framework/governance/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/framework/initiative-framework/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/framework/initiative-framework/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/framework/initiative-framework/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/framework/product-framework/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/framework/product-framework/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/framework/product-framework/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/identity/brand-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/brand-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/brand-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/identity/color-system/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/color-system/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/color-system/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/identity/logo-system/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/logo-system/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/logo-system/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/identity/typography/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/typography/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/typography/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/identity/visual-language/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/visual-language/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/visual-language/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/identity/voice-and-tone/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/voice-and-tone/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/voice-and-tone/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/initiatives/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/initiatives/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/initiatives/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/initiatives/wartips/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/initiatives/wartips/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/initiatives/wartips/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/roadmap/roadmap/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/roadmap/roadmap/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/roadmap/roadmap/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/standards/ai-usage-standard/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/ai-usage-standard/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/ai-usage-standard/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/standards/documentation-standard/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/documentation-standard/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/documentation-standard/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/standards/engineering-standard/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/engineering-standard/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/engineering-standard/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/standards/github-standard/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/github-standard/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/github-standard/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/standards/information-boundaries/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/information-boundaries/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/information-boundaries/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0001-github-as-source-of-truth/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0001-github-as-source-of-truth/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0001-github-as-source-of-truth/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0002-layered-repository-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0002-layered-repository-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0002-layered-repository-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0003-initiative-governance-model/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0003-initiative-governance-model/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0003-initiative-governance-model/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0004-activate-foundation-documents/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0004-activate-foundation-documents/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0004-activate-foundation-documents/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0005-activate-endorsed-brand-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0005-activate-endorsed-brand-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0005-activate-endorsed-brand-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0006-activate-governance-and-frameworks/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0006-activate-governance-and-frameworks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0006-activate-governance-and-frameworks/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0007-activate-ecosystem-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0007-activate-ecosystem-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0007-activate-ecosystem-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0008-activate-shared-standards/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0008-activate-shared-standards/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0008-activate-shared-standards/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0009-complete-foundation-v1/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0009-complete-foundation-v1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0009-complete-foundation-v1/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0010-adopt-w7-production-identity-assets/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0010-adopt-w7-production-identity-assets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0010-adopt-w7-production-identity-assets/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/0011-adopt-integrated-w7-mark/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/0011-adopt-integrated-w7-mark/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/0011-adopt-integrated-w7-mark/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/adr/template/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/adr/template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/adr/template/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/architecture/knowledge-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/architecture/knowledge-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/architecture/knowledge-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/architecture/overview/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/architecture/overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/architecture/overview/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/architecture/technology-stack/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/architecture/technology-stack/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/architecture/technology-stack/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/architecture/topology/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/architecture/topology/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/architecture/topology/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/foundations/constitution/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/constitution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/constitution/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/foundations/legacy/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/legacy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/legacy/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/foundations/manifesto/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/manifesto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/manifesto/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/foundations/mission/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/mission/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/mission/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/foundations/operating-model/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/operating-model/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/operating-model/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/foundations/principles-of-building/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/principles-of-building/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/principles-of-building/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/foundations/values/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/values/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/values/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/foundations/vision/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/foundations/vision/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/foundations/vision/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/founder/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/founder/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/founder/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/founder/founder-letter/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/founder/founder-letter/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/founder/founder-letter/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/founder/origin-story/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/founder/origin-story/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/founder/origin-story/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/framework/decision-framework/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/framework/decision-framework/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/framework/decision-framework/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/framework/governance/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/framework/governance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/framework/governance/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/framework/initiative-framework/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/framework/initiative-framework/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/framework/initiative-framework/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/framework/product-framework/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/framework/product-framework/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/framework/product-framework/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/identity/brand-architecture/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/brand-architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/brand-architecture/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/identity/color-system/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/color-system/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/color-system/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/identity/logo-system/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/logo-system/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/logo-system/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/identity/typography/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/typography/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/typography/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/identity/visual-language/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/visual-language/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/visual-language/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/identity/voice-and-tone/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/identity/voice-and-tone/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/identity/voice-and-tone/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/initiatives/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/initiatives/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/initiatives/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/initiatives/wartips/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/initiatives/wartips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/initiatives/wartips/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/roadmap/roadmap/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/roadmap/roadmap/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/roadmap/roadmap/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/standards/ai-usage-standard/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/ai-usage-standard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/ai-usage-standard/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/standards/documentation-standard/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/documentation-standard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/documentation-standard/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/standards/engineering-standard/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/engineering-standard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/engineering-standard/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/standards/github-standard/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/github-standard/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/github-standard/"/>
+    </url>
+    <url>
+        <loc>https://raguerra7.github.io/project-w7/pt/standards/information-boundaries/</loc>
+        <lastmod>2026-08-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://raguerra7.github.io/project-w7/pt/standards/information-boundaries/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://raguerra7.github.io/project-w7/standards/information-boundaries/"/>
+    </url>
+</urlset>
