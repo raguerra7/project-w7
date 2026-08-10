@@ -19,11 +19,62 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.instant
     - navigation.tracking
     - navigation.top
     - content.action.edit
     - toc.follow
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: pt
+          name: Português
+          build: true
+          nav_translations:
+            Home: Início
+            Foundations: Fundamentos
+            Constitution: Constituição
+            Mission: Missão
+            Values: Valores
+            Principles of Building: Princípios de Construção
+            Operating Model: Modelo Operacional
+            Manifesto: Manifesto
+            Vision: Visão
+            Legacy: Legado
+            Identity: Identidade
+            Brand Architecture: Arquitetura de Marca
+            Color System: Sistema de Cores
+            Typography: Tipografia
+            Voice and Tone: Voz e Tom
+            Visual Language: Linguagem Visual
+            Architecture: Arquitetura
+            Overview: Visão Geral
+            Topology: Topologias
+            Knowledge Architecture: Arquitetura do Conhecimento
+            Technology Stack: Stack de Tecnologia
+            Framework: Framework
+            Governance: Governança
+            Decision Framework: Framework de Decisão
+            Initiative Framework: Framework de Iniciativas
+            Product Framework: Framework de Produtos
+            Initiatives: Iniciativas
+            Registry: Registro
+            Standards: Padrões
+            Documentation Standard: Padrão de Documentação
+            Engineering Standard: Padrão de Engenharia
+            GitHub Standard: Padrão do GitHub
+            AI Usage Standard: Padrão de Uso de IA
+            Information Boundaries: Limites de Informação
+            Roadmap: Roadmap
+            Founder: Fundador
+            Founder's Letter: Carta do Fundador
+            Origin Story: História de Origem
 
 markdown_extensions:
   - tables
@@ -34,6 +85,12 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - toc:
       permalink: true
+
+extra_css:
+  - assets/stylesheets/visuals.css
+
+extra_javascript:
+  - assets/javascripts/diagram-zoom.js
 
 nav:
   - Home: index.md

@@ -1,6 +1,6 @@
 # Ecosystem Topology
 
-Version: 1.1.0
+Version: 1.2.0
 
 Status: Active
 
@@ -24,20 +24,20 @@ The Architecture Overview explains the layer model in words. Some relationships 
 
 ```mermaid
 flowchart TD
-    F[Foundation<br/><small>docs/foundations/</small>]
-    I[Identity<br/><small>docs/identity/</small>]
-    G[Governance<br/><small>docs/framework/governance.md</small>]
-    FR[Framework<br/><small>docs/framework/</small>]
-    IN[Initiatives<br/><small>docs/initiatives/</small>]
-    P[Products<br/><small>initiative-owned repositories</small>]
-    E[Experiences<br/><small>initiative-owned surfaces</small>]
-    L[Continuous Learning<br/><small>docs/adr/, retrospectives</small>]
+    F["Foundation<br/>Why W7 exists"]
+    I["Identity<br/>How W7 is expressed"]
+    G["Governance<br/>Who decides"]
+    FR["Framework<br/>How work is created"]
+    IN["Initiatives<br/>Enduring areas of work"]
+    P["Products<br/>Maintained outputs"]
+    E["Experiences<br/>What people encounter"]
+    L["Learning<br/>Evidence and ADRs"]
 
     F --> I --> G --> FR --> IN --> P --> E --> L
     L -.->|feeds back as an ADR or amendment| F
 
-    classDef stable fill:#1f2937,stroke:#9ca3af,color:#f9fafb;
-    classDef volatile fill:#374151,stroke:#6b7280,color:#f9fafb;
+    classDef stable fill:#111111,stroke:#c8a45d,color:#ffffff,stroke-width:2px;
+    classDef volatile fill:#f7f7f5,stroke:#666666,color:#111111;
     class F,I,G stable
     class FR,IN,P,E,L volatile
 ```
@@ -49,33 +49,30 @@ Dependencies only ever point downward (solid arrows). The only upward path is th
 ## Repository Structure
 
 ```mermaid
-flowchart LR
-    subgraph Repo["project-w7"]
-        direction TB
-        README["README.md"]
-        subgraph docs["docs/"]
-            direction TB
-            found["foundations/<br/>constitution, manifesto,<br/>vision, legacy"]
-            ident["identity/<br/>brand-architecture"]
-            arch["architecture/<br/>overview, knowledge-architecture,<br/>technology-stack, topology"]
-            fram["framework/<br/>governance, decision-,<br/>initiative-, product-framework"]
-            init["initiatives/<br/>wartips/"]
-            std["standards/<br/>documentation-, engineering-,<br/>github-, ai-usage-standard,<br/>information-boundaries"]
-            adr["adr/<br/>template, numbered records"]
-            road["roadmap/"]
-            fdr["founder/<br/>letter, origin-story"]
-        end
-        tmpl["templates/"]
-        scr["scripts/"]
-        gh[".github/<br/>workflows, issue &amp; PR templates"]
-    end
+flowchart TB
+    ROOT["project-w7<br/>Canonical ecosystem repository"]
+    ROOT --> GOV["Governing layers"]
+    ROOT --> WORK["Operating layers"]
+    ROOT --> SUPPORT["Repository support"]
 
-    found --> ident --> fram
-    fram --> init
-    arch -.->|documents the structure of| Repo
-    std -.->|governs how every folder is written| docs
-    adr -.->|records why found/fram changed| found
-    adr -.->|records why found/fram changed| fram
+    GOV --> FOUND["foundations/"]
+    GOV --> IDENT["identity/"]
+    GOV --> FRAME["framework/"]
+
+    WORK --> INIT["initiatives/"]
+    WORK --> ARCH["architecture/"]
+    WORK --> STD["standards/"]
+    WORK --> ADR["adr/"]
+    WORK --> ROAD["roadmap/"]
+    WORK --> FOUNDER["founder/"]
+
+    SUPPORT --> TEMPLATES["templates/"]
+    SUPPORT --> SCRIPTS["scripts/"]
+    SUPPORT --> GITHUB[".github/"]
+
+    FOUND --> IDENT --> FRAME --> INIT
+    STD -.-> GOV
+    ADR -.-> GOV
 ```
 
 Folder placement is not cosmetic — it is the mechanism that enforces the layer model in the previous diagram. A document in the wrong folder implies the wrong dependency direction. See [ADR-0002](../adr/0002-layered-repository-architecture.md).
