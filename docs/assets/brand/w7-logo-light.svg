@@ -2,9 +2,11 @@
   <title id="title">W7 logo for dark backgrounds</title>
   <desc id="desc">W7 circular monogram followed by the W7 wordmark in white and gold.</desc>
   <g transform="translate(4)">
-    <circle cx="48" cy="48" r="44" fill="#111111" stroke="#C8A45D" stroke-width="2"/>
-    <path d="M20 31 31 68 45 43 58 68" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M52 30H77L61 68" fill="none" stroke="#C8A45D" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="48" cy="48" r="45" fill="#111111"/>
+    <path d="M20 19A40 40 0 1 1 61 86" fill="none" stroke="#C8A45D" stroke-width="5" stroke-linecap="round"/>
+    <path d="M35 86A40 40 0 0 1 12 35" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+    <path d="M22 31 35 66 48 46 59 65" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
+    <path d="M50 30H76L57 74" fill="none" stroke="#C8A45D" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
   </g>
   <text x="116" y="66" fill="#FFFFFF" font-family="Inter, system-ui, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-2">W</text>
   <text x="164" y="66" fill="#C8A45D" font-family="Inter, system-ui, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-2">7</text>

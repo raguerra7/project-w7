@@ -144,6 +144,7 @@ nav:
       - "ADR-0008 Activate Shared Standards": adr/0008-activate-shared-standards.md
       - "ADR-0009 Complete Foundation v1.0": adr/0009-complete-foundation-v1.md
       - "ADR-0010 Adopt Production Identity Assets": adr/0010-adopt-w7-production-identity-assets.md
+      - "ADR-0011 Adopt Integrated W7 Mark": adr/0011-adopt-integrated-w7-mark.md
   - Roadmap: roadmap/roadmap.md
   - Founder:
       - Overview: founder/README.md

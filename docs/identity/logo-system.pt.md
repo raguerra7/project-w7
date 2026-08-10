@@ -1,6 +1,6 @@
 # Sistema de Logo
 
-Version: 1.0.0
+Version: 1.1.0
 
 Status: Active
 
@@ -26,7 +26,7 @@ A Linguagem Visual estabeleceu um monograma circular W7 inspirado em equilíbrio
 
 ![Símbolo W7](../assets/brand/w7-symbol.svg)
 
-O símbolo é a marca compacta preferencial. O círculo preto fosco expressa continuidade; o W branco e o 7 dourado se encontram no centro sem reproduzir um símbolo yin-yang.
+O símbolo é a marca compacta preferencial. O círculo aberto expressa continuidade e movimento; o W branco e o 7 dourado compartilham um centro geométrico e avançam em direção à abertura sem reproduzir um símbolo yin-yang.
 
 ### Logo Horizontal — Fundo Claro
 
@@ -61,7 +61,7 @@ Usar sobre preto fosco ou superfícies suficientemente escuras.
 ## Regras
 
 - Não esticar, girar, contornar, recolorir ou reorganizar a marca.
-- Não remover o campo circular preto do símbolo.
+- Não fechar, separar ou reorganizar o círculo aberto.
 - Não substituir o W7 Gold por gradiente ou efeito metálico simulado.
 - Não posicionar a marca sobre fundos que enfraqueçam seu contraste.
 - Marcas de iniciativas permanecem independentes; W7 aparece como endosso, não como prefixo obrigatório.
@@ -79,3 +79,4 @@ Todos os SVGs de produção contêm título, descrição ou rótulo acessível. 
 - [Tipografia](typography.md) — tipografia do wordmark
 - [Arquitetura de Marca](brand-architecture.md) — modelo de endosso
 - [ADR-0010](../adr/0010-adopt-w7-production-identity-assets.md) — aprovação destes ativos
+- [ADR-0011](../adr/0011-adopt-integrated-w7-mark.md) — aprovação da geometria integrada

@@ -1,6 +1,6 @@
 # Logo System
 
-Version: 1.0.0
+Version: 1.1.0
 
 Status: Active
 
@@ -26,7 +26,7 @@ The Visual Language established a circular W7 monogram inspired by balance. This
 
 ![W7 symbol](../assets/brand/w7-symbol.svg)
 
-The symbol is the preferred compact mark. Its matte-black circle expresses continuity; the white W and gold 7 meet at the center without reproducing a yin-yang symbol.
+The symbol is the preferred compact mark. Its open circular path expresses continuity and movement; the white W and gold 7 share a geometric center and extend toward the opening without reproducing a yin-yang symbol.
 
 ### Horizontal Logo — Light Background
 
@@ -61,7 +61,7 @@ Use on matte black or other sufficiently dark surfaces.
 ## Rules
 
 - Do not stretch, rotate, outline, recolor, or rearrange the mark.
-- Do not remove the black circular field from the symbol.
+- Do not close, detach, or rearrange the open circular path.
 - Do not replace W7 Gold with a gradient or simulated metallic effect.
 - Do not place the mark on a background that weakens its contrast.
 - Initiative marks remain independent; W7 appears as an endorsement, not as a forced prefix.
@@ -79,3 +79,4 @@ All production SVGs contain an accessible title, description, or label. Nearby t
 - [Typography](typography.md) — wordmark typography
 - [Brand Architecture](brand-architecture.md) — endorsement model
 - [ADR-0010](../adr/0010-adopt-w7-production-identity-assets.md) — approval of this asset set
+- [ADR-0011](../adr/0011-adopt-integrated-w7-mark.md) — approval of the integrated geometry
